@@ -1,0 +1,17 @@
+# bench_env dependencies
+
+# Required
+# Cap: 2.24.x verified OK; newer (e.g. 2.43) rejects the empty api_key that
+# LLMClient passes for local/gateway endpoints -> OpenAIError: Missing credentials.
+openai>=1.0.0,<2.25
+playwright>=1.40.0
+pytest-xdist>=3.8.0
+
+# Required (for trajectory image scaling/annotation)
+pillow>=10.0.0
+
+# Required (for progress bar)
+tqdm>=4.60.0
+
+# Required (for traditional→simplified Chinese normalization in judge)
+opencc-python-reimplemented>=0.1.7

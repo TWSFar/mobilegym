@@ -1,0 +1,3210 @@
+{
+  "1989": {
+    "songs": [
+      {
+        "id": "it_1846151728",
+        "title": "1989",
+        "artist": "Nightly",
+        "cover": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg",
+        "duration": "3:24",
+        "coverLarge": "/cdn/spotify/images/tracks/2eaf98d871e232c1.jpg"
+      },
+      {
+        "id": "it_1445882179",
+        "title": "Style",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_164885169",
+        "title": "1989",
+        "artist": "陳昇",
+        "cover": "/cdn/spotify/images/artists/e00ceda949dcac14.jpg",
+        "duration": "5:18",
+        "coverLarge": "/cdn/spotify/images/tracks/82a469fed484412f.jpg"
+      },
+      {
+        "id": "it_1445882771",
+        "title": "New Romantics",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1445882199",
+        "title": "Shake It Off",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1713845786",
+        "title": "Shake It Off (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/fe695fd99b055e71.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/3bc6a12302285951.jpg"
+      },
+      {
+        "id": "it_1621512676",
+        "title": "1989 (feat. Miguel Atwood-Ferguson)",
+        "artist": "Kamaal Williams",
+        "cover": "/cdn/spotify/images/tracks/a2d4fe880a586aae.jpg",
+        "duration": "3:22",
+        "coverLarge": "/cdn/spotify/images/tracks/8394418b7293cdd5.jpg"
+      },
+      {
+        "id": "it_1445882358",
+        "title": "Bad Blood",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:31",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1445882174",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1445882363",
+        "title": "Wildest Dreams",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:40",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1166499678",
+        "artistName": "THREE1989",
+        "artworkUrl100": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg"
+      },
+      {
+        "artistId": "1565365613",
+        "artistName": "1989s Entertainment",
+        "artworkUrl100": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg"
+      },
+      {
+        "artistId": "293036781",
+        "artistName": "1989",
+        "artworkUrl100": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg"
+      },
+      {
+        "artistId": "218918",
+        "artistName": "Vladimir Horowitz",
+        "artworkUrl100": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg"
+      },
+      {
+        "artistId": "1412608271",
+        "artistName": "1989",
+        "artworkUrl100": "/cdn/spotify/images/artists/c3bf8ff998066b75.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1713845538",
+        "collectionName": "1989 (Taylor's Version) [Deluxe]",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/artists/fe695fd99b055e71.jpg"
+      },
+      {
+        "collectionId": "1445888258",
+        "collectionName": "1989",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      },
+      {
+        "collectionId": "1445881848",
+        "collectionName": "1989 (Deluxe Edition)",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/artists/a526975805839c04.jpg"
+      },
+      {
+        "collectionId": "1708308989",
+        "collectionName": "1989 (Taylor's Version)",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/tracks/a8ac5da92dd52f11.jpg"
+      },
+      {
+        "collectionId": "1887258435",
+        "collectionName": "1989 - Leondis remix - Single",
+        "artistName": "Nightly",
+        "artworkUrl100": "/cdn/spotify/images/albums/e0a4737efdbf801e.jpg"
+      }
+    ]
+  },
+  "青花瓷": {
+    "songs": [
+      {
+        "id": "it_536030695",
+        "title": "青花瓷",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/36ff94082cc74527.jpg",
+        "duration": "3:59",
+        "coverLarge": "/cdn/spotify/images/tracks/0f67e046fdaabcee.jpg"
+      },
+      {
+        "id": "it_1754111159",
+        "title": "青花瓷(粵語版)",
+        "artist": "陳芯怡",
+        "cover": "/cdn/spotify/images/artists/dd016a80ebc63ec9.jpg",
+        "duration": "3:21",
+        "coverLarge": "/cdn/spotify/images/tracks/d892d0da64876799.jpg"
+      },
+      {
+        "id": "it_1601697298",
+        "title": "青花瓷 (Live)",
+        "artist": "費玉清",
+        "cover": "/cdn/spotify/images/tracks/893f22f7c7eddec7.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/527e6a1b0660f0fd.jpg"
+      },
+      {
+        "id": "it_1108410497",
+        "title": "青花瓷 (Live)",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/bfa63f9888ee55e9.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/9725d3bce2784a67.jpg"
+      },
+      {
+        "id": "it_1189446952",
+        "title": "青花瓷",
+        "artist": "彭芳",
+        "cover": "/cdn/spotify/images/tracks/0cc4dfe7489d329e.jpg",
+        "duration": "4:05",
+        "coverLarge": "/cdn/spotify/images/tracks/031697042c93af6f.jpg"
+      },
+      {
+        "id": "it_1485210492",
+        "title": "青花瓷 (Live)",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/36936e347b26b92a.jpg",
+        "duration": "3:59",
+        "coverLarge": "/cdn/spotify/images/tracks/6e6b5ebfb56317e9.jpg"
+      },
+      {
+        "id": "it_1649967161",
+        "title": "青花瓷 (琵琶演奏版)",
+        "artist": "丘涵",
+        "cover": "/cdn/spotify/images/artists/84cf3e2796003af7.jpg",
+        "duration": "2:33",
+        "coverLarge": "/cdn/spotify/images/tracks/7b139d6bfb46d0b0.jpg"
+      },
+      {
+        "id": "it_1654436781",
+        "title": "青花瓷",
+        "artist": "吳英仔",
+        "cover": "/cdn/spotify/images/tracks/6ab4b8d93a92ac9f.jpg",
+        "duration": "4:05",
+        "coverLarge": "/cdn/spotify/images/tracks/6b4f840f97c9192a.jpg"
+      },
+      {
+        "id": "it_1623572746",
+        "title": "青花瓷 (鋼琴版)",
+        "artist": "紀鈞瀚",
+        "cover": "/cdn/spotify/images/tracks/6fbec79ca56ffe4d.jpg",
+        "duration": "3:42",
+        "coverLarge": "/cdn/spotify/images/tracks/7feeee7319600c09.jpg"
+      },
+      {
+        "id": "it_1202158866",
+        "title": "青花瓷",
+        "artist": "鐳聲樂團",
+        "cover": "/cdn/spotify/images/tracks/fcea8da7471fe111.jpg",
+        "duration": "4:04",
+        "coverLarge": "/cdn/spotify/images/tracks/e565a9f0c448aa9a.jpg"
+      }
+    ],
+    "artists": [],
+    "albums": [
+      {
+        "collectionId": "1754111157",
+        "collectionName": "青花瓷(粤语版) - Single",
+        "artistName": "陳芯怡",
+        "artworkUrl100": "/cdn/spotify/images/artists/dd016a80ebc63ec9.jpg"
+      },
+      {
+        "collectionId": "1649966906",
+        "collectionName": "青花瓷 (琵琶演奏版) - Single",
+        "artistName": "丘涵",
+        "artworkUrl100": "/cdn/spotify/images/artists/84cf3e2796003af7.jpg"
+      },
+      {
+        "collectionId": "1706551735",
+        "collectionName": "Blue and White Porcelain - Single",
+        "artistName": "Danko Violin",
+        "artworkUrl100": "/cdn/spotify/images/artists/ac83965058674aa0.jpg"
+      },
+      {
+        "collectionId": "1800279655",
+        "collectionName": "青花瓷 - Single",
+        "artistName": "萌萌噠天團",
+        "artworkUrl100": "/cdn/spotify/images/artists/48a6cbcaa7c7e6f1.jpg"
+      },
+      {
+        "collectionId": "1643598072",
+        "collectionName": "青花瓷 - Single",
+        "artistName": "單傾雅",
+        "artworkUrl100": "/cdn/spotify/images/artists/01a8e75493a39fd2.jpg"
+      }
+    ]
+  },
+  "shape of you": {
+    "songs": [
+      {
+        "id": "it_1193701392",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "3:53",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_1364024941",
+        "title": "Shape of You",
+        "artist": "J.Fla",
+        "cover": "/cdn/spotify/images/tracks/bd856fd1c941645a.jpg",
+        "duration": "2:52",
+        "coverLarge": "/cdn/spotify/images/tracks/2199456ef20622c5.jpg"
+      },
+      {
+        "id": "it_1207892300",
+        "title": "Shape of You (Stormzy Remix)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/75c9342cfc81d465.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/3807714d94bea127.jpg"
+      },
+      {
+        "id": "it_1212482314",
+        "title": "Shape of You (Latin Remix) [feat. Zion & Lennox]",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/3f3b9800f1d56d61.jpg",
+        "duration": "3:57",
+        "coverLarge": "/cdn/spotify/images/tracks/3bd12d805d0eb083.jpg"
+      },
+      {
+        "id": "it_1808888370",
+        "title": "Shape Of You",
+        "artist": "J.Fla",
+        "cover": "/cdn/spotify/images/tracks/02f9743a3d1b898b.jpg",
+        "duration": "2:52",
+        "coverLarge": "/cdn/spotify/images/tracks/d1de85a6f6bc2da8.jpg"
+      },
+      {
+        "id": "it_1193700767",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/46bfa2ab9185c167.jpg",
+        "duration": "3:53",
+        "coverLarge": "/cdn/spotify/images/tracks/4d722ff415094c0c.jpg"
+      },
+      {
+        "id": "it_1202046879",
+        "title": "Shape of You (Acoustic)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/0d9d87762642bde8.jpg",
+        "duration": "3:43",
+        "coverLarge": "/cdn/spotify/images/tracks/2119c5649f5931ae.jpg"
+      },
+      {
+        "id": "it_1195071603",
+        "title": "Shape of You",
+        "artist": "Madilyn",
+        "cover": "/cdn/spotify/images/tracks/f5d009a270d09375.jpg",
+        "duration": "3:16",
+        "coverLarge": "/cdn/spotify/images/tracks/818612849fd291cd.jpg"
+      },
+      {
+        "id": "it_1207892078",
+        "title": "Shape of You (Major Lazer Remix) [feat. Nyla & Kranium]",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/3693f127c99df381.jpg",
+        "duration": "3:12",
+        "coverLarge": "/cdn/spotify/images/tracks/acb11a878eaa26c2.jpg"
+      },
+      {
+        "id": "it_1201315636",
+        "title": "Shape of You (Galantis Remix)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/204a2d03aa647eba.jpg",
+        "duration": "3:15",
+        "coverLarge": "/cdn/spotify/images/tracks/552d561cf99079b0.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1354883995",
+        "artistName": "j-hope",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "378430797",
+        "artistName": "Julia Michaels",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "1410841257",
+        "artistName": "benny blanco",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "275557",
+        "artistName": "Yo-Yo Ma",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "1468290871",
+        "artistName": "Diplo",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1201315429",
+        "collectionName": "Shape of You (Galantis Remix) - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/artists/204a2d03aa647eba.jpg"
+      },
+      {
+        "collectionId": "1202046656",
+        "collectionName": "Shape of You (Acoustic) - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/tracks/0d9d87762642bde8.jpg"
+      },
+      {
+        "collectionId": "1207891771",
+        "collectionName": "Shape of You (Major Lazer Remix) [feat. Nyla & Kranium] - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/tracks/3693f127c99df381.jpg"
+      },
+      {
+        "collectionId": "1207892073",
+        "collectionName": "Shape of You (Stormzy Remix) - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/tracks/75c9342cfc81d465.jpg"
+      },
+      {
+        "collectionId": "1212482187",
+        "collectionName": "Shape of You (Latin Remix) [feat. Zion & Lennox] - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/tracks/3f3b9800f1d56d61.jpg"
+      }
+    ]
+  },
+  "thriller": {
+    "songs": [
+      {
+        "id": "it_269573303",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg",
+        "duration": "5:58",
+        "coverLarge": "/cdn/spotify/images/tracks/fbfd309d8e22f3d9.jpg"
+      },
+      {
+        "id": "it_1838923954",
+        "title": "THRILLER",
+        "artist": "BADVILLAIN",
+        "cover": "/cdn/spotify/images/artists/774359a9cb22634e.jpg",
+        "duration": "2:52",
+        "coverLarge": "/cdn/spotify/images/tracks/9ffecc0056931881.jpg"
+      },
+      {
+        "id": "it_1775539943",
+        "title": "Thriller",
+        "artist": "Tori Kelly, 泰隆艾格頓, 史嘉蕾·喬韓森 & 尼克・克洛爾",
+        "cover": "/cdn/spotify/images/tracks/69a55102a0cc09e2.jpg",
+        "duration": "4:35",
+        "coverLarge": "/cdn/spotify/images/tracks/326b6b02d517babe.jpg"
+      },
+      {
+        "id": "it_273048815",
+        "title": "Thriller (Instrumental)",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/7deb8266b96452af.jpg",
+        "duration": "5:57",
+        "coverLarge": "/cdn/spotify/images/tracks/70233effddf5b6ce.jpg"
+      },
+      {
+        "id": "it_1344566933",
+        "title": "Thriller",
+        "artist": "BTOB",
+        "cover": "/cdn/spotify/images/tracks/5a2e17ff7ddd3344.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/5ec82032db14786d.jpg"
+      },
+      {
+        "id": "it_1537682965",
+        "title": "Thriller",
+        "artist": "MONSTA X",
+        "cover": "/cdn/spotify/images/tracks/3cbef2aa0fcb7887.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/1d33320d7232444c.jpg"
+      },
+      {
+        "id": "it_159294311",
+        "title": "Thriller (2003 Edit)",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/c7a42a184841036f.jpg",
+        "duration": "5:12",
+        "coverLarge": "/cdn/spotify/images/tracks/67a80ca5a47a2f1b.jpg"
+      },
+      {
+        "id": "it_273598917",
+        "title": "Thriller (2003 Edit)",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/884aaa0108d34582.jpg",
+        "duration": "5:12",
+        "coverLarge": "/cdn/spotify/images/tracks/fbe6428ca4d883f1.jpg"
+      },
+      {
+        "id": "it_310505614",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/1d8279544e8dd033.jpg",
+        "duration": "5:57",
+        "coverLarge": "/cdn/spotify/images/tracks/9d0690052e254123.jpg"
+      },
+      {
+        "id": "it_1204608439",
+        "title": "스릴러",
+        "artist": "BTOB",
+        "cover": "/cdn/spotify/images/tracks/bc4fce167a07fe7a.jpg",
+        "duration": "3:28",
+        "coverLarge": "/cdn/spotify/images/tracks/f65aab9d2ba0d0ab.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1441427465",
+        "artistName": "Tony Thriller",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "92407408",
+        "artistName": "Thriller",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "484124081",
+        "artistName": "Aja Volkman",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "645972550",
+        "artistName": "Santino Fontana",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "1711845241",
+        "artistName": "Thriller",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "269572838",
+        "collectionName": "Thriller",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "collectionId": "1838923953",
+        "collectionName": "THRILLER - Single",
+        "artistName": "BADVILLAIN",
+        "artworkUrl100": "/cdn/spotify/images/artists/774359a9cb22634e.jpg"
+      },
+      {
+        "collectionId": "1775539618",
+        "collectionName": "Thriller - Single",
+        "artistName": "Tori Kelly, 泰隆艾格頓, 史嘉蕾·喬韓森 & 尼克・克洛爾",
+        "artworkUrl100": "/cdn/spotify/images/tracks/69a55102a0cc09e2.jpg"
+      },
+      {
+        "collectionId": "1290290904",
+        "collectionName": "Thriller (Steve Aoki Midnight Hour Remix) - Single",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/albums/e9585ca95f239fd3.jpg"
+      },
+      {
+        "collectionId": "273048762",
+        "collectionName": "Thriller (25th Anniversary) [Deluxe Edition]",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/tracks/7deb8266b96452af.jpg"
+      }
+    ]
+  },
+  "bad habits": {
+    "songs": [
+      {
+        "id": "it_1571330212",
+        "title": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/6e4c4ea3a61359d8.jpg"
+      },
+      {
+        "id": "it_1816998454",
+        "title": "Bad Habits",
+        "artist": "Delaney Jane",
+        "cover": "/cdn/spotify/images/tracks/5c7b55d325875069.jpg",
+        "duration": "4:16",
+        "coverLarge": "/cdn/spotify/images/tracks/e32a9e27e34c80e7.jpg"
+      },
+      {
+        "id": "it_1715640936",
+        "title": "Bad Habits (Feat. LeeHi)",
+        "artist": "Crush",
+        "cover": "/cdn/spotify/images/tracks/a3c79ee2bc3dca8a.jpg",
+        "duration": "3:25",
+        "coverLarge": "/cdn/spotify/images/tracks/7c0560fb1d7b73b7.jpg"
+      },
+      {
+        "id": "it_1447572837",
+        "title": "습관",
+        "artist": "SHAUN",
+        "cover": "/cdn/spotify/images/tracks/6fa1d9c60e1eb2cf.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/6dd2335ebd43d795.jpg"
+      },
+      {
+        "id": "it_1609667035",
+        "title": "Bad Habits (feat. Bring Me The Horizon)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/7eeed423f4c74786.jpg",
+        "duration": "4:10",
+        "coverLarge": "/cdn/spotify/images/tracks/f88f7dda6f90e177.jpg"
+      },
+      {
+        "id": "it_1625197554",
+        "title": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/c0470b4c9f9998e2.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/0ba2033bcbd23cfe.jpg"
+      },
+      {
+        "id": "it_1581087532",
+        "title": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/809b7b36fada7fac.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/3f9ff9493321e1f4.jpg"
+      },
+      {
+        "id": "it_1578002160",
+        "title": "Bad Habits (MEDUZA Remix)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/da5e17226de3701c.jpg",
+        "duration": "3:14",
+        "coverLarge": "/cdn/spotify/images/tracks/78ed728d97eed0dc.jpg"
+      },
+      {
+        "id": "it_1817001532",
+        "title": "Bad Habits",
+        "artist": "Delaney Jane",
+        "cover": "/cdn/spotify/images/tracks/1f55803999ab6922.jpg",
+        "duration": "4:16",
+        "coverLarge": "/cdn/spotify/images/tracks/7b6fe2a0a8a575ff.jpg"
+      },
+      {
+        "id": "it_1578967055",
+        "title": "Bad Habits (Joel Corry Remix)",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/e5c9e26283c35303.jpg",
+        "duration": "3:09",
+        "coverLarge": "/cdn/spotify/images/tracks/46f4baeba2cbe988.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1477095158",
+        "artistName": "Bad Habits",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "artistId": "1250556362",
+        "artistName": "BAD HABITS",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "artistId": "208940448",
+        "artistName": "Bad Habits",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "artistId": "1506179286",
+        "artistName": "Bad Habits",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "artistId": "793376321",
+        "artistName": "Bad Habits",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1609667025",
+        "collectionName": "Bad Habits (feat. Bring Me The Horizon) - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/tracks/7eeed423f4c74786.jpg"
+      },
+      {
+        "collectionId": "1814209708",
+        "collectionName": "BAD HABITS",
+        "artistName": "陳嘉樺",
+        "artworkUrl100": "/cdn/spotify/images/albums/993a97f7f9050fe0.jpg"
+      },
+      {
+        "collectionId": "1817001524",
+        "collectionName": "Bad Habits - Single",
+        "artistName": "Delaney Jane",
+        "artworkUrl100": "/cdn/spotify/images/tracks/1f55803999ab6922.jpg"
+      },
+      {
+        "collectionId": "1571330207",
+        "collectionName": "Bad Habits - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "collectionId": "1574940209",
+        "collectionName": "Bad Habits (Acoustic Version) - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/albums/d5ded4c4a631ee76.jpg"
+      }
+    ]
+  },
+  "bad guy": {
+    "songs": [
+      {
+        "id": "it_1450695739",
+        "title": "bad guy",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/9378211aab39cead.jpg",
+        "duration": "3:14",
+        "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+      },
+      {
+        "id": "it_1472563571",
+        "title": "bad guy",
+        "artist": "Billie Eilish & Justin Bieber",
+        "cover": "/cdn/spotify/images/tracks/fdff527f816ba22a.jpg",
+        "duration": "3:14",
+        "coverLarge": "/cdn/spotify/images/tracks/0246a6f476ba43f3.jpg"
+      },
+      {
+        "id": "it_1475639297",
+        "title": "Bad Guy (Remix)",
+        "artist": "Dani L. Mebius",
+        "cover": "/cdn/spotify/images/tracks/c670ee2fedd5be95.jpg",
+        "duration": "3:35",
+        "coverLarge": "/cdn/spotify/images/tracks/65b185408e77bdf1.jpg"
+      },
+      {
+        "id": "it_1481172392",
+        "title": "Bad Guy",
+        "artist": "The Interrupters",
+        "cover": "/cdn/spotify/images/tracks/4e1b7fb69e89ac9f.jpg",
+        "duration": "2:37",
+        "coverLarge": "/cdn/spotify/images/tracks/de72d96639bb525b.jpg"
+      },
+      {
+        "id": "it_1490612197",
+        "title": "bad guy",
+        "artist": "Citizen Queen",
+        "cover": "/cdn/spotify/images/tracks/1675a3f55cb45319.jpg",
+        "duration": "3:15",
+        "coverLarge": "/cdn/spotify/images/tracks/47ace3178aa8a2d8.jpg"
+      },
+      {
+        "id": "it_1437463439",
+        "title": "Bad Guy",
+        "artist": "Niykee Heaton",
+        "cover": "/cdn/spotify/images/tracks/986c01912578e908.jpg",
+        "duration": "3:33",
+        "coverLarge": "/cdn/spotify/images/tracks/ee332588593dda95.jpg"
+      },
+      {
+        "id": "it_1867275748",
+        "title": "Bad Guy",
+        "artist": "Ty Myers",
+        "cover": "/cdn/spotify/images/tracks/ac1a0cd6d6d0c60e.jpg",
+        "duration": "3:16",
+        "coverLarge": "/cdn/spotify/images/tracks/b37eb10d6dbdf586.jpg"
+      },
+      {
+        "id": "it_1559258946",
+        "title": "Bad Guy",
+        "artist": "CHANYEOL",
+        "cover": "/cdn/spotify/images/tracks/0da6f1f157e8a899.jpg",
+        "duration": "2:56",
+        "coverLarge": "/cdn/spotify/images/tracks/0d0f45a5d826f756.jpg"
+      },
+      {
+        "id": "it_1527240159",
+        "title": "Bad Guy",
+        "artist": "Zinsan",
+        "cover": "/cdn/spotify/images/tracks/73cbea9d38e8bb05.jpg",
+        "duration": "3:03",
+        "coverLarge": "/cdn/spotify/images/tracks/0e8983b6b77c2b3f.jpg"
+      },
+      {
+        "id": "it_561663035",
+        "title": "Bad Guy (feat. MC Sniper)",
+        "artist": "Jang Hye Jin",
+        "cover": "/cdn/spotify/images/tracks/60b394a8de1820ad.jpg",
+        "duration": "3:59",
+        "coverLarge": "/cdn/spotify/images/tracks/e2c4c0de8a6bc371.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "354180792",
+        "artistName": "Bad Guy",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      },
+      {
+        "artistId": "378430797",
+        "artistName": "Julia Michaels",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      },
+      {
+        "artistId": "1710824128",
+        "artistName": "Bad guy",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      },
+      {
+        "artistId": "1751628280",
+        "artistName": "BAD GUY",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      },
+      {
+        "artistId": "1835537971",
+        "artistName": "Bad Guy",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1481172391",
+        "collectionName": "Bad Guy - Single",
+        "artistName": "The Interrupters",
+        "artworkUrl100": "/cdn/spotify/images/tracks/4e1b7fb69e89ac9f.jpg"
+      },
+      {
+        "collectionId": "1490611685",
+        "collectionName": "bad guy - Single",
+        "artistName": "Citizen Queen",
+        "artworkUrl100": "/cdn/spotify/images/tracks/1675a3f55cb45319.jpg"
+      },
+      {
+        "collectionId": "1472563379",
+        "collectionName": "bad guy - Single",
+        "artistName": "Billie Eilish & Justin Bieber",
+        "artworkUrl100": "/cdn/spotify/images/tracks/fdff527f816ba22a.jpg"
+      },
+      {
+        "collectionId": "1469588462",
+        "collectionName": "Bad Guy - Single",
+        "artistName": "陳以桐",
+        "artworkUrl100": "/cdn/spotify/images/albums/57d2bda3e7767053.jpg"
+      },
+      {
+        "collectionId": "1738628829",
+        "collectionName": "Bad Guy - Single",
+        "artistName": "Kurt Hugo Schneider, Aaron Encinas & MAYCE",
+        "artworkUrl100": "/cdn/spotify/images/albums/ecd81047adf51322.jpg"
+      }
+    ]
+  },
+  "welcome to new york": {
+    "songs": [
+      {
+        "id": "it_1445888381",
+        "title": "Welcome To New York",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/cd8963187667cee1.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/77e98337e0947b3e.jpg"
+      },
+      {
+        "id": "it_1713845554",
+        "title": "Welcome To New York (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/fe695fd99b055e71.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/3bc6a12302285951.jpg"
+      },
+      {
+        "id": "it_933380560",
+        "title": "Welcome to New York",
+        "artist": "Global Waves",
+        "cover": "/cdn/spotify/images/tracks/9f779427c20ff5c7.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/70498232ab0b500d.jpg"
+      },
+      {
+        "id": "it_1445882061",
+        "title": "Welcome To New York",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1708308990",
+        "title": "Welcome To New York (Taylor's Version)",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/a8ac5da92dd52f11.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/1d7d627c5b7ef010.jpg"
+      },
+      {
+        "id": "it_1445765738",
+        "title": "Welcome To New York",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/5541d874ee601ebc.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/6bbc864a972a07a3.jpg"
+      },
+      {
+        "id": "it_951096648",
+        "title": "Welcome to New York (Deluxe Edit)",
+        "artist": "Ellie Joy",
+        "cover": "/cdn/spotify/images/tracks/949f3f6a7c29ebdf.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/1c1757d4333fefe6.jpg"
+      },
+      {
+        "id": "it_1444778326",
+        "title": "Welcome To New York",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/36d19a9537c662af.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/7946204f667827fd.jpg"
+      },
+      {
+        "id": "it_1040989838",
+        "title": "Welcome to New York",
+        "artist": "Ryan Adams",
+        "cover": "/cdn/spotify/images/tracks/c3921ed5092635eb.jpg",
+        "duration": "3:18",
+        "coverLarge": "/cdn/spotify/images/tracks/4f13b7aba63753ab.jpg"
+      },
+      {
+        "id": "it_1497082857",
+        "title": "Welcome to New York",
+        "artist": "Retro Blade",
+        "cover": "/cdn/spotify/images/tracks/6d5e8d796a9cc157.jpg",
+        "duration": "3:30",
+        "coverLarge": "/cdn/spotify/images/tracks/8a2424307aea0f33.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1649621137",
+        "artistName": "NEW YORK",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      },
+      {
+        "artistId": "4091218",
+        "artistName": "Tiësto",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      },
+      {
+        "artistId": "3342627",
+        "artistName": "Timbaland",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      },
+      {
+        "artistId": "260414340",
+        "artistName": "OneRepublic",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      },
+      {
+        "artistId": "471260289",
+        "artistName": "Harry Styles",
+        "artworkUrl100": "/cdn/spotify/images/artists/cd8963187667cee1.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "951096644",
+        "collectionName": "Welcome to New York (Deluxe Edit) - Single",
+        "artistName": "Ellie Joy",
+        "artworkUrl100": "/cdn/spotify/images/tracks/949f3f6a7c29ebdf.jpg"
+      },
+      {
+        "collectionId": "933380558",
+        "collectionName": "Welcome to New York - Single",
+        "artistName": "Global Waves",
+        "artworkUrl100": "/cdn/spotify/images/tracks/9f779427c20ff5c7.jpg"
+      },
+      {
+        "collectionId": "936871989",
+        "collectionName": "Welcome To New York - Single",
+        "artistName": "TeraBrite",
+        "artworkUrl100": "/cdn/spotify/images/albums/46e4bc9be9b56eca.jpg"
+      },
+      {
+        "collectionId": "1166406139",
+        "collectionName": "Welcome To New York",
+        "artistName": "Ehud Asherie",
+        "artworkUrl100": "/cdn/spotify/images/albums/167c4aaa24b1bddf.jpg"
+      },
+      {
+        "collectionId": "938113783",
+        "collectionName": "Welcome To New York - Single",
+        "artistName": "Starstruck Backing Tracks",
+        "artworkUrl100": "/cdn/spotify/images/albums/a4ace35623101305.jpg"
+      }
+    ]
+  },
+  "love story": {
+    "songs": [
+      {
+        "id": "it_1552791427",
+        "title": "Love Story (Taylor’s Version)",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/6bfae25e7844ae68.jpg"
+      },
+      {
+        "id": "it_1440670792",
+        "title": "Love Story",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/71fdef439e4f8826.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/3b2b3c9bdc337e81.jpg"
+      },
+      {
+        "id": "it_1528512279",
+        "title": "Love Story",
+        "artist": "范逸臣",
+        "cover": "/cdn/spotify/images/tracks/c834aa788df29fc9.jpg",
+        "duration": "4:08",
+        "coverLarge": "/cdn/spotify/images/tracks/9c38b492b9416dd3.jpg"
+      },
+      {
+        "id": "it_1440830558",
+        "title": "Love Story",
+        "artist": "Indila",
+        "cover": "/cdn/spotify/images/tracks/a866f3729f668a1c.jpg",
+        "duration": "5:16",
+        "coverLarge": "/cdn/spotify/images/tracks/f3d95d8e95dc3a75.jpg"
+      },
+      {
+        "id": "it_1779487152",
+        "title": "Love Story",
+        "artist": "TOMORROW X TOGETHER",
+        "cover": "/cdn/spotify/images/tracks/22994dbfbc456d49.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/8a8e6df0d44f3009.jpg"
+      },
+      {
+        "id": "it_1299101336",
+        "title": "LOVE STORY (feat. IU)",
+        "artist": "Epik High",
+        "cover": "/cdn/spotify/images/tracks/adbb6405a90448fb.jpg",
+        "duration": "3:56",
+        "coverLarge": "/cdn/spotify/images/tracks/57736a16587488ec.jpg"
+      },
+      {
+        "id": "it_1177262591",
+        "title": "Love Story",
+        "artist": "Lyn",
+        "cover": "/cdn/spotify/images/tracks/0c93c501b137f3f8.jpg",
+        "duration": "3:24",
+        "coverLarge": "/cdn/spotify/images/tracks/bd63f94c6e9ac9dd.jpg"
+      },
+      {
+        "id": "it_1440748753",
+        "title": "Love Story",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/08bf65ecf301057b.jpg",
+        "duration": "3:53",
+        "coverLarge": "/cdn/spotify/images/tracks/e9a6d5331b608e48.jpg"
+      },
+      {
+        "id": "it_555292230",
+        "title": "Love Story",
+        "artist": "Matt Cab",
+        "cover": "/cdn/spotify/images/tracks/721dbe3e0b5eaf85.jpg",
+        "duration": "5:20",
+        "coverLarge": "/cdn/spotify/images/tracks/54450746ca79cf43.jpg"
+      },
+      {
+        "id": "it_1452879748",
+        "title": "Love Story",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/ee1396a77bcbfeb6.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/64b057d9b6e4ebba.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1552436380",
+        "artistName": "Another Chemical Love Story",
+        "artworkUrl100": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg"
+      },
+      {
+        "artistId": "1549561015",
+        "artistName": "Love Story",
+        "artworkUrl100": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg"
+      },
+      {
+        "artistId": "63176232",
+        "artistName": "Love Story",
+        "artworkUrl100": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg"
+      },
+      {
+        "artistId": "1863563326",
+        "artistName": "Love Story",
+        "artworkUrl100": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg"
+      },
+      {
+        "artistId": "1273762750",
+        "artistName": "=LOVE",
+        "artworkUrl100": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1605709617",
+        "collectionName": "Love Story (4 Season Project 季) - The 4th Mini Album - EP",
+        "artistName": "圭賢",
+        "artworkUrl100": "/cdn/spotify/images/albums/5a527b42388cdaa5.jpg"
+      },
+      {
+        "collectionId": "1779487149",
+        "collectionName": "Love Story (The Seasons: Rainbow of Lee Young Ji) - Single",
+        "artistName": "TOMORROW X TOGETHER",
+        "artworkUrl100": "/cdn/spotify/images/tracks/22994dbfbc456d49.jpg"
+      },
+      {
+        "collectionId": "201551953",
+        "collectionName": "愛情故事 (新曲+精選)",
+        "artistName": "鄭秀文",
+        "artworkUrl100": "/cdn/spotify/images/albums/0d63477f152ccc21.jpg"
+      },
+      {
+        "collectionId": "1559935030",
+        "collectionName": "Love Story (Taylor's Version) [Elvira Remix] - Single",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/albums/a7735269c2cd6c5f.jpg"
+      },
+      {
+        "collectionId": "1451567957",
+        "collectionName": "Love Story",
+        "artistName": "back number",
+        "artworkUrl100": "/cdn/spotify/images/albums/6aa4b97317d1c40c.jpg"
+      }
+    ]
+  },
+  "rolling in the deep": {
+    "songs": [
+      {
+        "id": "it_403037877",
+        "title": "Rolling In the Deep",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/artists/d3cc164641049db1.jpg",
+        "duration": "3:48",
+        "coverLarge": "/cdn/spotify/images/tracks/5b7770a376aadd8e.jpg"
+      },
+      {
+        "id": "it_449087660",
+        "title": "Rolling In the Deep (Live)",
+        "artist": "LINKIN PARK",
+        "cover": "/cdn/spotify/images/tracks/06acc873d5413cde.jpg",
+        "duration": "4:24",
+        "coverLarge": "/cdn/spotify/images/tracks/5f4d62acebad195c.jpg"
+      },
+      {
+        "id": "it_450128412",
+        "title": "Rolling in the Deep (Live)",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/aaa9c65dcc1a6ca2.jpg",
+        "duration": "5:21",
+        "coverLarge": "/cdn/spotify/images/tracks/7d1c21372b69af91.jpg"
+      },
+      {
+        "id": "it_487737129",
+        "title": "Rolling In the Deep",
+        "artist": "Vázquez Sounds",
+        "cover": "/cdn/spotify/images/tracks/5f993f7fc4451848.jpg",
+        "duration": "3:48",
+        "coverLarge": "/cdn/spotify/images/tracks/5aeadbdf1e40b55d.jpg"
+      },
+      {
+        "id": "it_413623679",
+        "title": "Rolling In the Deep (Acapella)",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/bdb15d49a80c9cda.jpg",
+        "duration": "3:56",
+        "coverLarge": "/cdn/spotify/images/tracks/dd0363379291b69a.jpg"
+      },
+      {
+        "id": "it_1440941517",
+        "title": "Rolling In the Deep",
+        "artist": "Go Radio",
+        "cover": "/cdn/spotify/images/tracks/864127c2528889d8.jpg",
+        "duration": "3:54",
+        "coverLarge": "/cdn/spotify/images/tracks/896abb6635c9cd7f.jpg"
+      },
+      {
+        "id": "it_923074875",
+        "title": "Rolling In the Deep (The Aretha Version)",
+        "artist": "Aretha Franklin",
+        "cover": "/cdn/spotify/images/tracks/16147181661ea3c7.jpg",
+        "duration": "4:00",
+        "coverLarge": "/cdn/spotify/images/tracks/590338c774059559.jpg"
+      },
+      {
+        "id": "it_849285284",
+        "title": "Rolling in the Deep (feat. Monique)",
+        "artist": "Urban Love",
+        "cover": "/cdn/spotify/images/tracks/2540d1161924520b.jpg",
+        "duration": "4:08",
+        "coverLarge": "/cdn/spotify/images/tracks/544ad400df2168a1.jpg"
+      },
+      {
+        "id": "it_413623678",
+        "title": "Rolling In the Deep (Jamie xx Shuffle)",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/bdb15d49a80c9cda.jpg",
+        "duration": "4:17",
+        "coverLarge": "/cdn/spotify/images/tracks/dd0363379291b69a.jpg"
+      },
+      {
+        "id": "it_413623677",
+        "title": "Rolling In the Deep",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/bdb15d49a80c9cda.jpg",
+        "duration": "3:48",
+        "coverLarge": "/cdn/spotify/images/tracks/dd0363379291b69a.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "704309129",
+        "artistName": "Jess Glynne",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "521141925",
+        "artistName": "blackbear",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "635806094",
+        "artistName": "Kygo",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "315761934",
+        "artistName": "Major Lazer",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "577354628",
+        "artistName": "Fifth Harmony",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "413623676",
+        "collectionName": "Rolling In the Deep - Single",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/tracks/bdb15d49a80c9cda.jpg"
+      },
+      {
+        "collectionId": "487737065",
+        "collectionName": "Rolling In the Deep - Single",
+        "artistName": "Vázquez Sounds",
+        "artworkUrl100": "/cdn/spotify/images/tracks/5f993f7fc4451848.jpg"
+      },
+      {
+        "collectionId": "1885981630",
+        "collectionName": "Rolling in the Deep - Single",
+        "artistName": "Simply Three",
+        "artworkUrl100": "/cdn/spotify/images/albums/9d3ca6d0f78afda8.jpg"
+      },
+      {
+        "collectionId": "557936532",
+        "collectionName": "Rolling in the Deep - Single",
+        "artistName": "酷音樂團",
+        "artworkUrl100": "/cdn/spotify/images/albums/1e504d91d983404d.jpg"
+      },
+      {
+        "collectionId": "556945794",
+        "collectionName": "Rolling in the Deep (vocal version) - Single",
+        "artistName": "酷音樂團",
+        "artworkUrl100": "/cdn/spotify/images/albums/c46199378c73f246.jpg"
+      }
+    ]
+  },
+  "周杰伦": {
+    "songs": [
+      {
+        "id": "it_1887246591",
+        "title": "那天下雨了",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:43",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246590",
+        "title": "西西里",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:49",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247018",
+        "title": "女兒殿下",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:44",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246589",
+        "title": "太陽之子",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:57",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246592",
+        "title": "湘女多情",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247019",
+        "title": "淘金小鎮",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:10",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246595",
+        "title": "愛琴海",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:34",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247016",
+        "title": "I Do",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:36",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246593",
+        "title": "誰稀罕",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:22",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247017",
+        "title": "聖徒",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "2:55",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      },
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1887246588",
+        "collectionName": "太陽之子",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      },
+      {
+        "collectionId": "1632190508",
+        "collectionName": "最偉大的作品",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/fe1f3381a6df5a37.jpg"
+      },
+      {
+        "collectionId": "535739206",
+        "collectionName": "范特西",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/4a35bc86f7fef3ec.jpg"
+      },
+      {
+        "collectionId": "536161722",
+        "collectionName": "八度空間",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/67ddbe3d873cb03a.jpg"
+      },
+      {
+        "collectionId": "536009641",
+        "collectionName": "11月的蕭邦",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/05c32f401d5915e0.jpg"
+      }
+    ]
+  },
+  "周杰倫": {
+    "songs": [
+      {
+        "id": "it_1887246591",
+        "title": "那天下雨了",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:43",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246590",
+        "title": "西西里",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:49",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247018",
+        "title": "女兒殿下",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:44",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246589",
+        "title": "太陽之子",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:57",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246592",
+        "title": "湘女多情",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247019",
+        "title": "淘金小鎮",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:10",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246595",
+        "title": "愛琴海",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:34",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247016",
+        "title": "I Do",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "3:36",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887246593",
+        "title": "誰稀罕",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "4:22",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      },
+      {
+        "id": "it_1887247017",
+        "title": "聖徒",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg",
+        "duration": "2:55",
+        "coverLarge": "/cdn/spotify/images/tracks/5e6b59a5a5b0e826.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      },
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1887246588",
+        "collectionName": "太陽之子",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/f4418ae92a1181fc.jpg"
+      },
+      {
+        "collectionId": "1632190508",
+        "collectionName": "最偉大的作品",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/fe1f3381a6df5a37.jpg"
+      },
+      {
+        "collectionId": "535739206",
+        "collectionName": "范特西",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/4a35bc86f7fef3ec.jpg"
+      },
+      {
+        "collectionId": "536161722",
+        "collectionName": "八度空間",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/67ddbe3d873cb03a.jpg"
+      },
+      {
+        "collectionId": "536009641",
+        "collectionName": "11月的蕭邦",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/albums/05c32f401d5915e0.jpg"
+      }
+    ]
+  },
+  "林俊杰": {
+    "songs": [
+      {
+        "id": "it_1871400637",
+        "title": "不為誰而作的歌",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/26611d4691c264ae.jpg",
+        "duration": "4:25",
+        "coverLarge": "/cdn/spotify/images/tracks/ac0256bb3a42f96c.jpg"
+      },
+      {
+        "id": "it_1871400641",
+        "title": "關鍵詞",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/26611d4691c264ae.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/ac0256bb3a42f96c.jpg"
+      },
+      {
+        "id": "it_1535791948",
+        "title": "交換餘生",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/6ec30bcfb91142b4.jpg",
+        "duration": "4:36",
+        "coverLarge": "/cdn/spotify/images/tracks/690c7dd8f0148f6a.jpg"
+      },
+      {
+        "id": "it_1788007696",
+        "title": "可惜沒如果",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/2424a2b0c4e7032e.jpg",
+        "duration": "4:58",
+        "coverLarge": "/cdn/spotify/images/tracks/6c56c0981a178288.jpg"
+      },
+      {
+        "id": "it_1694849138",
+        "title": "修煉愛情",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/bd916f1ce9cd801d.jpg",
+        "duration": "4:47",
+        "coverLarge": "/cdn/spotify/images/tracks/85af4ee6dbfc5c21.jpg"
+      },
+      {
+        "id": "it_1071506929",
+        "title": "她說",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/e028346f373febe6.jpg",
+        "duration": "5:18",
+        "coverLarge": "/cdn/spotify/images/tracks/535184d6ae06008d.jpg"
+      },
+      {
+        "id": "it_1788007691",
+        "title": "浪漫血液",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/2424a2b0c4e7032e.jpg",
+        "duration": "4:32",
+        "coverLarge": "/cdn/spotify/images/tracks/6c56c0981a178288.jpg"
+      },
+      {
+        "id": "it_1071506930",
+        "title": "愛笑的眼睛",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/e028346f373febe6.jpg",
+        "duration": "4:11",
+        "coverLarge": "/cdn/spotify/images/tracks/535184d6ae06008d.jpg"
+      },
+      {
+        "id": "it_1663699423",
+        "title": "那些你很冒險的夢",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/28ac404976405136.jpg",
+        "duration": "4:04",
+        "coverLarge": "/cdn/spotify/images/tracks/b537ee45111f8f25.jpg"
+      },
+      {
+        "id": "it_1314121443",
+        "title": "黑夜問白天",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/16bed86a318651fc.jpg",
+        "duration": "4:52",
+        "coverLarge": "/cdn/spotify/images/tracks/f63bccb24db6f904.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "437982384",
+        "artistName": "J.J.",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "152678183",
+        "artistName": "JOLIN蔡依林",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "436847316",
+        "artistName": "林宥嘉",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1874801991",
+        "collectionName": "我對緣分小心翼翼 (劇集《逐玉》主題曲) - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/85a8f49e6b9c2888.jpg"
+      },
+      {
+        "collectionId": "1886720059",
+        "collectionName": "我對緣分小心翼翼《逐玉》 - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/c49d67c9306fefa8.jpg"
+      },
+      {
+        "collectionId": "1531323100",
+        "collectionName": "交換餘生 - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/8af17e96fc661afa.jpg"
+      },
+      {
+        "collectionId": "1374241603",
+        "collectionName": "飛雲之下 - Single",
+        "artistName": "韓紅 & 林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/d7beefebfbdb8ffb.jpg"
+      },
+      {
+        "collectionId": "1445038002",
+        "collectionName": "Despacito (Mandarin Version) [feat. JJ Lin] - Single",
+        "artistName": "Luis Fonsi",
+        "artworkUrl100": "/cdn/spotify/images/albums/5c7ca8c940fe4ec9.jpg"
+      }
+    ]
+  },
+  "林俊傑": {
+    "songs": [
+      {
+        "id": "it_1871400637",
+        "title": "不為誰而作的歌",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/26611d4691c264ae.jpg",
+        "duration": "4:25",
+        "coverLarge": "/cdn/spotify/images/tracks/ac0256bb3a42f96c.jpg"
+      },
+      {
+        "id": "it_1871400641",
+        "title": "關鍵詞",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/26611d4691c264ae.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/ac0256bb3a42f96c.jpg"
+      },
+      {
+        "id": "it_1535791948",
+        "title": "交換餘生",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/6ec30bcfb91142b4.jpg",
+        "duration": "4:36",
+        "coverLarge": "/cdn/spotify/images/tracks/690c7dd8f0148f6a.jpg"
+      },
+      {
+        "id": "it_1788007696",
+        "title": "可惜沒如果",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/2424a2b0c4e7032e.jpg",
+        "duration": "4:58",
+        "coverLarge": "/cdn/spotify/images/tracks/6c56c0981a178288.jpg"
+      },
+      {
+        "id": "it_1694849138",
+        "title": "修煉愛情",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/bd916f1ce9cd801d.jpg",
+        "duration": "4:47",
+        "coverLarge": "/cdn/spotify/images/tracks/85af4ee6dbfc5c21.jpg"
+      },
+      {
+        "id": "it_1071506929",
+        "title": "她說",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/e028346f373febe6.jpg",
+        "duration": "5:18",
+        "coverLarge": "/cdn/spotify/images/tracks/535184d6ae06008d.jpg"
+      },
+      {
+        "id": "it_1788007691",
+        "title": "浪漫血液",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/2424a2b0c4e7032e.jpg",
+        "duration": "4:32",
+        "coverLarge": "/cdn/spotify/images/tracks/6c56c0981a178288.jpg"
+      },
+      {
+        "id": "it_1071506930",
+        "title": "愛笑的眼睛",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/e028346f373febe6.jpg",
+        "duration": "4:11",
+        "coverLarge": "/cdn/spotify/images/tracks/535184d6ae06008d.jpg"
+      },
+      {
+        "id": "it_1663699423",
+        "title": "那些你很冒險的夢",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/28ac404976405136.jpg",
+        "duration": "4:04",
+        "coverLarge": "/cdn/spotify/images/tracks/b537ee45111f8f25.jpg"
+      },
+      {
+        "id": "it_1314121443",
+        "title": "黑夜問白天",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/16bed86a318651fc.jpg",
+        "duration": "4:52",
+        "coverLarge": "/cdn/spotify/images/tracks/f63bccb24db6f904.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "437982384",
+        "artistName": "J.J.",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "152678183",
+        "artistName": "JOLIN蔡依林",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "436847316",
+        "artistName": "林宥嘉",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      },
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/26611d4691c264ae.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1874801991",
+        "collectionName": "我對緣分小心翼翼 (劇集《逐玉》主題曲) - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/85a8f49e6b9c2888.jpg"
+      },
+      {
+        "collectionId": "1886720059",
+        "collectionName": "我對緣分小心翼翼《逐玉》 - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/c49d67c9306fefa8.jpg"
+      },
+      {
+        "collectionId": "1531323100",
+        "collectionName": "交換餘生 - Single",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/8af17e96fc661afa.jpg"
+      },
+      {
+        "collectionId": "1374241603",
+        "collectionName": "飛雲之下 - Single",
+        "artistName": "韓紅 & 林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/albums/d7beefebfbdb8ffb.jpg"
+      },
+      {
+        "collectionId": "1445038002",
+        "collectionName": "Despacito (Mandarin Version) [feat. JJ Lin] - Single",
+        "artistName": "Luis Fonsi",
+        "artworkUrl100": "/cdn/spotify/images/albums/5c7ca8c940fe4ec9.jpg"
+      }
+    ]
+  },
+  "许嵩": {
+    "songs": [
+      {
+        "id": "it_1071359781",
+        "title": "有何不可",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "4:00",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_933793690",
+        "title": "素顏 (with 何曼婷)",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/246076b4e63013dd.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/b3420cd8f097cb89.jpg"
+      },
+      {
+        "id": "it_1071359780",
+        "title": "如果當時",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "5:14",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1126284501",
+        "title": "雅俗共賞",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/4ccdd79a22f95907.jpg",
+        "duration": "4:09",
+        "coverLarge": "/cdn/spotify/images/tracks/e8fe0a0259782c8b.jpg"
+      },
+      {
+        "id": "it_1071359773",
+        "title": "多餘的解釋",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "4:35",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1071376655",
+        "title": "廬州月",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/1106270891fa173b.jpg",
+        "duration": "4:13",
+        "coverLarge": "/cdn/spotify/images/tracks/8cfa8edf3d30e0eb.jpg"
+      },
+      {
+        "id": "it_933841971",
+        "title": "玫瑰花的葬禮",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/848c9456880c3792.jpg",
+        "duration": "4:19",
+        "coverLarge": "/cdn/spotify/images/tracks/74831e0b97408e78.jpg"
+      },
+      {
+        "id": "it_914792615",
+        "title": "驚鴻一面(with 黃齡)",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/d4b8a8574283e318.jpg",
+        "duration": "4:18",
+        "coverLarge": "/cdn/spotify/images/tracks/533f0740e242b9ca.jpg"
+      },
+      {
+        "id": "it_1071359775",
+        "title": "清明雨上",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1071500270",
+        "title": "幻聽",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/84e7964eb72b75c4.jpg",
+        "duration": "4:33",
+        "coverLarge": "/cdn/spotify/images/tracks/b08ef76009954753.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "601736777",
+        "artistName": "许嵩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "137938148",
+        "artistName": "陳奕迅",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "307674970",
+        "artistName": "李荣浩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "933793684",
+        "collectionName": "素顏 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/tracks/246076b4e63013dd.jpg"
+      },
+      {
+        "collectionId": "1126284385",
+        "collectionName": "青年晚報",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/tracks/4ccdd79a22f95907.jpg"
+      },
+      {
+        "collectionId": "1032246056",
+        "collectionName": "千古 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/albums/94dd05ff70a37b38.jpg"
+      },
+      {
+        "collectionId": "1071359379",
+        "collectionName": "自定義",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "collectionId": "1107875997",
+        "collectionName": "雅俗共賞 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/albums/aac75f7f60b71f62.jpg"
+      }
+    ]
+  },
+  "許嵩": {
+    "songs": [
+      {
+        "id": "it_1071359781",
+        "title": "有何不可",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "4:00",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_933793690",
+        "title": "素顏 (with 何曼婷)",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/246076b4e63013dd.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/b3420cd8f097cb89.jpg"
+      },
+      {
+        "id": "it_1071359780",
+        "title": "如果當時",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "5:14",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1126284501",
+        "title": "雅俗共賞",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/4ccdd79a22f95907.jpg",
+        "duration": "4:09",
+        "coverLarge": "/cdn/spotify/images/tracks/e8fe0a0259782c8b.jpg"
+      },
+      {
+        "id": "it_1071359773",
+        "title": "多餘的解釋",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "4:35",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1071376655",
+        "title": "廬州月",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/1106270891fa173b.jpg",
+        "duration": "4:13",
+        "coverLarge": "/cdn/spotify/images/tracks/8cfa8edf3d30e0eb.jpg"
+      },
+      {
+        "id": "it_933841971",
+        "title": "玫瑰花的葬禮",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/848c9456880c3792.jpg",
+        "duration": "4:19",
+        "coverLarge": "/cdn/spotify/images/tracks/74831e0b97408e78.jpg"
+      },
+      {
+        "id": "it_914792615",
+        "title": "驚鴻一面(with 黃齡)",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/d4b8a8574283e318.jpg",
+        "duration": "4:18",
+        "coverLarge": "/cdn/spotify/images/tracks/533f0740e242b9ca.jpg"
+      },
+      {
+        "id": "it_1071359775",
+        "title": "清明雨上",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/artists/57c801788d2d543b.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+      },
+      {
+        "id": "it_1071500270",
+        "title": "幻聽",
+        "artist": "許嵩",
+        "cover": "/cdn/spotify/images/tracks/84e7964eb72b75c4.jpg",
+        "duration": "4:33",
+        "coverLarge": "/cdn/spotify/images/tracks/b08ef76009954753.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "601736777",
+        "artistName": "许嵩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "137938148",
+        "artistName": "陳奕迅",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "artistId": "307674970",
+        "artistName": "李荣浩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "933793684",
+        "collectionName": "素顏 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/tracks/246076b4e63013dd.jpg"
+      },
+      {
+        "collectionId": "1126284385",
+        "collectionName": "青年晚報",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/tracks/4ccdd79a22f95907.jpg"
+      },
+      {
+        "collectionId": "1032246056",
+        "collectionName": "千古 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/albums/94dd05ff70a37b38.jpg"
+      },
+      {
+        "collectionId": "1071359379",
+        "collectionName": "自定義",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/artists/57c801788d2d543b.jpg"
+      },
+      {
+        "collectionId": "1107875997",
+        "collectionName": "雅俗共賞 - Single",
+        "artistName": "許嵩",
+        "artworkUrl100": "/cdn/spotify/images/albums/aac75f7f60b71f62.jpg"
+      }
+    ]
+  },
+  "ed sheeran": {
+    "songs": [
+      {
+        "id": "it_1193701392",
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "3:53",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_1193701400",
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "4:23",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_858517168",
+        "title": "Photograph",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/a2a8f7863cbcd28b.jpg",
+        "duration": "4:18",
+        "coverLarge": "/cdn/spotify/images/tracks/00f3e94633ec462e.jpg"
+      },
+      {
+        "id": "it_1581087034",
+        "title": "Shivers",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/809b7b36fada7fac.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/3f9ff9493321e1f4.jpg"
+      },
+      {
+        "id": "it_858517200",
+        "title": "Thinking Out Loud",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/a2a8f7863cbcd28b.jpg",
+        "duration": "4:41",
+        "coverLarge": "/cdn/spotify/images/tracks/00f3e94633ec462e.jpg"
+      },
+      {
+        "id": "it_1193701436",
+        "title": "Galway Girl",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "2:50",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_1571330212",
+        "title": "Bad Habits",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/6e4c4ea3a61359d8.jpg"
+      },
+      {
+        "id": "it_1193701439",
+        "title": "Happier",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_1193701328",
+        "title": "Castle on the Hill",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg",
+        "duration": "4:21",
+        "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+      },
+      {
+        "id": "it_1673804556",
+        "title": "Eyes Closed",
+        "artist": "Ed Sheeran",
+        "cover": "/cdn/spotify/images/tracks/c48471793ff753ca.jpg",
+        "duration": "3:14",
+        "coverLarge": "/cdn/spotify/images/tracks/44bc82ca21140c0a.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "183313439",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "156334706",
+        "artistName": "Ed O'Brien",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "1138790033",
+        "artistName": "FINNEAS",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "1577792774",
+        "artistName": "Ed",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "artistId": "80159541",
+        "artistName": "SUGA",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1888937455",
+        "collectionName": "My Valentine sounds Vol.2",
+        "artistName": "群星",
+        "artworkUrl100": "/cdn/spotify/images/albums/bc242a1d0278e496.jpg"
+      },
+      {
+        "collectionId": "1193701079",
+        "collectionName": "÷ (Deluxe)",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/artists/44127f0b4e57b6f0.jpg"
+      },
+      {
+        "collectionId": "1641565065",
+        "collectionName": "Celestial - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/albums/d9a1c68994db21d1.jpg"
+      },
+      {
+        "collectionId": "1571330207",
+        "collectionName": "Bad Habits - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/artists/cc1486993e0c5aa7.jpg"
+      },
+      {
+        "collectionId": "1545341237",
+        "collectionName": "Afterglow - Single",
+        "artistName": "Ed Sheeran",
+        "artworkUrl100": "/cdn/spotify/images/albums/3591238ca297d8a1.jpg"
+      }
+    ]
+  },
+  "billie eilish": {
+    "songs": [
+      {
+        "id": "it_1739659142",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg",
+        "duration": "3:30",
+        "coverLarge": "/cdn/spotify/images/tracks/30b0d7578c30efef.jpg"
+      },
+      {
+        "id": "it_1450695739",
+        "title": "bad guy",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/9378211aab39cead.jpg",
+        "duration": "3:14",
+        "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+      },
+      {
+        "id": "it_1739659144",
+        "title": "WILDFLOWER",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg",
+        "duration": "4:21",
+        "coverLarge": "/cdn/spotify/images/tracks/30b0d7578c30efef.jpg"
+      },
+      {
+        "id": "it_1696819855",
+        "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/tracks/b4656a093ba28dea.jpg",
+        "duration": "3:42",
+        "coverLarge": "/cdn/spotify/images/tracks/a5c6503537e4e216.jpg"
+      },
+      {
+        "id": "it_1440899467",
+        "title": "ocean eyes",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/tracks/9e7eb8379a2df797.jpg",
+        "duration": "3:20",
+        "coverLarge": "/cdn/spotify/images/tracks/9c53e50a7b846750.jpg"
+      },
+      {
+        "id": "it_1369380479",
+        "title": "lovely",
+        "artist": "Billie Eilish & Khalid",
+        "cover": "/cdn/spotify/images/tracks/367c7806ba902964.jpg",
+        "duration": "3:20",
+        "coverLarge": "/cdn/spotify/images/tracks/7abbba259d5f767f.jpg"
+      },
+      {
+        "id": "it_1487502476",
+        "title": "everything i wanted",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/tracks/ea56980e8bf9003e.jpg",
+        "duration": "4:05",
+        "coverLarge": "/cdn/spotify/images/tracks/29a4484b4987d499.jpg"
+      },
+      {
+        "id": "it_1450695871",
+        "title": "wish you were gay",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/9378211aab39cead.jpg",
+        "duration": "3:41",
+        "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+      },
+      {
+        "id": "it_1450695881",
+        "title": "bury a friend",
+        "artist": "Billie Eilish",
+        "cover": "/cdn/spotify/images/artists/9378211aab39cead.jpg",
+        "duration": "3:13",
+        "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+      },
+      {
+        "id": "it_1628837538",
+        "title": "BILLIE EILISH.",
+        "artist": "Armani White",
+        "cover": "/cdn/spotify/images/tracks/aa15119cd989dd49.jpg",
+        "duration": "1:39",
+        "coverLarge": "/cdn/spotify/images/tracks/79c89caa1959fb7b.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "1065981054",
+        "artistName": "Billie Eilish",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      },
+      {
+        "artistId": "37299",
+        "artistName": "Billie Holiday",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      },
+      {
+        "artistId": "920494",
+        "artistName": "Billie Holiday and Her Orchestra",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      },
+      {
+        "artistId": "1129439109",
+        "artistName": "Armani White",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      },
+      {
+        "artistId": "1220215284",
+        "artistName": "lovelytheband",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1739659134",
+        "collectionName": "HIT ME HARD AND SOFT",
+        "artistName": "Billie Eilish",
+        "artworkUrl100": "/cdn/spotify/images/artists/bece0989bfd8bb85.jpg"
+      },
+      {
+        "collectionId": "1450695723",
+        "collectionName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "artistName": "Billie Eilish",
+        "artworkUrl100": "/cdn/spotify/images/artists/9378211aab39cead.jpg"
+      },
+      {
+        "collectionId": "1696819852",
+        "collectionName": "What Was I Made For? (From The Motion Picture \"Barbie\") - Single",
+        "artistName": "Billie Eilish",
+        "artworkUrl100": "/cdn/spotify/images/tracks/b4656a093ba28dea.jpg"
+      },
+      {
+        "collectionId": "1487502456",
+        "collectionName": "everything i wanted - Single",
+        "artistName": "Billie Eilish",
+        "artworkUrl100": "/cdn/spotify/images/tracks/ea56980e8bf9003e.jpg"
+      },
+      {
+        "collectionId": "1628837269",
+        "collectionName": "BILLIE EILISH. - Single",
+        "artistName": "Armani White",
+        "artworkUrl100": "/cdn/spotify/images/tracks/aa15119cd989dd49.jpg"
+      }
+    ]
+  },
+  "taylor swift": {
+    "songs": [
+      {
+        "id": "it_1833328845",
+        "title": "Opalite",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/d65f818a9c51b229.jpg"
+      },
+      {
+        "id": "it_1468058171",
+        "title": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/f15343dbd95014ab.jpg",
+        "duration": "2:58",
+        "coverLarge": "/cdn/spotify/images/tracks/564720ea5ea0a748.jpg"
+      },
+      {
+        "id": "it_1552791427",
+        "title": "Love Story (Taylor’s Version)",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/10489c06cb2590e3.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/6bfae25e7844ae68.jpg"
+      },
+      {
+        "id": "it_1833328840",
+        "title": "The Fate of Ophelia",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg",
+        "duration": "3:46",
+        "coverLarge": "/cdn/spotify/images/tracks/d65f818a9c51b229.jpg"
+      },
+      {
+        "id": "it_1452879748",
+        "title": "Love Story",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/ee1396a77bcbfeb6.jpg",
+        "duration": "3:55",
+        "coverLarge": "/cdn/spotify/images/tracks/64b057d9b6e4ebba.jpg"
+      },
+      {
+        "id": "it_1445882174",
+        "title": "Blank Space",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1445882199",
+        "title": "Shake It Off",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:39",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      },
+      {
+        "id": "it_1452879752",
+        "title": "You Belong With Me",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/ee1396a77bcbfeb6.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/64b057d9b6e4ebba.jpg"
+      },
+      {
+        "id": "it_1468058173",
+        "title": "Lover",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/tracks/f15343dbd95014ab.jpg",
+        "duration": "3:41",
+        "coverLarge": "/cdn/spotify/images/tracks/564720ea5ea0a748.jpg"
+      },
+      {
+        "id": "it_1445882179",
+        "title": "Style",
+        "artist": "Taylor Swift",
+        "cover": "/cdn/spotify/images/artists/a526975805839c04.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/cd0f56d240376385.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "159260351",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg"
+      },
+      {
+        "artistId": "400555769",
+        "artistName": "Natalie Taylor",
+        "artworkUrl100": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg"
+      },
+      {
+        "artistId": "1410841257",
+        "artistName": "benny blanco",
+        "artworkUrl100": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg"
+      },
+      {
+        "artistId": "580391756",
+        "artistName": "The Chainsmokers",
+        "artworkUrl100": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg"
+      },
+      {
+        "artistId": "1144510695",
+        "artistName": "Taylor",
+        "artworkUrl100": "/cdn/spotify/images/artists/d35846b0979c11c4.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1468058165",
+        "collectionName": "Lover",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/tracks/f15343dbd95014ab.jpg"
+      },
+      {
+        "collectionId": "1440802681",
+        "collectionName": "Taylor Swift (Deluxe Edition)",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/albums/5188dfa4b2ed118f.jpg"
+      },
+      {
+        "collectionId": "1713845538",
+        "collectionName": "1989 (Taylor's Version) [Deluxe]",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/artists/fe695fd99b055e71.jpg"
+      },
+      {
+        "collectionId": "1440933849",
+        "collectionName": "reputation",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/albums/5edd99fdfd34dbc7.jpg"
+      },
+      {
+        "collectionId": "1690839749",
+        "collectionName": "Speak Now (Taylor's Version)",
+        "artistName": "Taylor Swift",
+        "artworkUrl100": "/cdn/spotify/images/albums/ae90b2ae5dbe3334.jpg"
+      }
+    ]
+  },
+  "adele": {
+    "songs": [
+      {
+        "id": "it_403037877",
+        "title": "Rolling In the Deep",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/artists/d3cc164641049db1.jpg",
+        "duration": "3:48",
+        "coverLarge": "/cdn/spotify/images/tracks/5b7770a376aadd8e.jpg"
+      },
+      {
+        "id": "it_403037927",
+        "title": "Someone Like You",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/artists/d3cc164641049db1.jpg",
+        "duration": "4:45",
+        "coverLarge": "/cdn/spotify/images/tracks/5b7770a376aadd8e.jpg"
+      },
+      {
+        "id": "it_1051332387",
+        "title": "Hello",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/3ed96307a4074bd1.jpg",
+        "duration": "4:55",
+        "coverLarge": "/cdn/spotify/images/tracks/aa0c7e989608c70c.jpg"
+      },
+      {
+        "id": "it_1590036021",
+        "title": "Easy On Me",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/14dddf48b0774d79.jpg",
+        "duration": "3:44",
+        "coverLarge": "/cdn/spotify/images/tracks/721a23816902afff.jpg"
+      },
+      {
+        "id": "it_403037888",
+        "title": "Set Fire to the Rain",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/artists/d3cc164641049db1.jpg",
+        "duration": "4:02",
+        "coverLarge": "/cdn/spotify/images/tracks/5b7770a376aadd8e.jpg"
+      },
+      {
+        "id": "it_566322365",
+        "title": "Skyfall",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/7890dbeb4771de2f.jpg",
+        "duration": "4:46",
+        "coverLarge": "/cdn/spotify/images/tracks/ab715fa127c58e50.jpg"
+      },
+      {
+        "id": "it_1051332394",
+        "title": "When We Were Young",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/3ed96307a4074bd1.jpg",
+        "duration": "4:50",
+        "coverLarge": "/cdn/spotify/images/tracks/aa0c7e989608c70c.jpg"
+      },
+      {
+        "id": "it_403037884",
+        "title": "Don't You Remember",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/artists/d3cc164641049db1.jpg",
+        "duration": "4:03",
+        "coverLarge": "/cdn/spotify/images/tracks/5b7770a376aadd8e.jpg"
+      },
+      {
+        "id": "it_295832779",
+        "title": "Make You Feel My Love",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/033b001ffe0120bb.jpg",
+        "duration": "3:32",
+        "coverLarge": "/cdn/spotify/images/tracks/7adf032fa621169b.jpg"
+      },
+      {
+        "id": "it_1590036269",
+        "title": "To Be Loved",
+        "artist": "Adele",
+        "cover": "/cdn/spotify/images/tracks/14dddf48b0774d79.jpg",
+        "duration": "6:43",
+        "coverLarge": "/cdn/spotify/images/tracks/721a23816902afff.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "262836961",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "1237131130",
+        "artistName": "Adèle Castillon",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "563040812",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "2600825",
+        "artistName": "Adele Anthony",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "artistId": "324008615",
+        "artistName": "Emeli Sandé",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1051331933",
+        "collectionName": "25",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/tracks/3ed96307a4074bd1.jpg"
+      },
+      {
+        "collectionId": "403037872",
+        "collectionName": "21",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/artists/d3cc164641049db1.jpg"
+      },
+      {
+        "collectionId": "1590035691",
+        "collectionName": "30",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/tracks/14dddf48b0774d79.jpg"
+      },
+      {
+        "collectionId": "566322358",
+        "collectionName": "Skyfall - Single",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/tracks/7890dbeb4771de2f.jpg"
+      },
+      {
+        "collectionId": "1078607549",
+        "collectionName": "When We Were Young - Single",
+        "artistName": "Adele",
+        "artworkUrl100": "/cdn/spotify/images/albums/4f00ad324c0c021e.jpg"
+      }
+    ]
+  },
+  "michael jackson": {
+    "songs": [
+      {
+        "id": "it_269573364",
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg",
+        "duration": "4:53",
+        "coverLarge": "/cdn/spotify/images/tracks/fbfd309d8e22f3d9.jpg"
+      },
+      {
+        "id": "it_269573341",
+        "title": "Beat It",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg",
+        "duration": "4:18",
+        "coverLarge": "/cdn/spotify/images/tracks/fbfd309d8e22f3d9.jpg"
+      },
+      {
+        "id": "it_322847191",
+        "title": "Black or White",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/68e44935c9e42cad.jpg",
+        "duration": "4:16",
+        "coverLarge": "/cdn/spotify/images/tracks/3da88d161d85fcba.jpg"
+      },
+      {
+        "id": "it_310505597",
+        "title": "You Are Not Alone",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/1d8279544e8dd033.jpg",
+        "duration": "5:44",
+        "coverLarge": "/cdn/spotify/images/tracks/9d0690052e254123.jpg"
+      },
+      {
+        "id": "it_322847216",
+        "title": "Dangerous",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/68e44935c9e42cad.jpg",
+        "duration": "6:59",
+        "coverLarge": "/cdn/spotify/images/tracks/3da88d161d85fcba.jpg"
+      },
+      {
+        "id": "it_269573303",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg",
+        "duration": "5:58",
+        "coverLarge": "/cdn/spotify/images/tracks/fbfd309d8e22f3d9.jpg"
+      },
+      {
+        "id": "it_551515763",
+        "title": "Smooth Criminal",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/e8ac93350c4c9c86.jpg",
+        "duration": "4:17",
+        "coverLarge": "/cdn/spotify/images/tracks/cc778838167b1904.jpg"
+      },
+      {
+        "id": "it_850697815",
+        "title": "Love Never Felt So Good",
+        "artist": "Michael Jackson & Justin Timberlake",
+        "cover": "/cdn/spotify/images/tracks/9123766f43228745.jpg",
+        "duration": "4:05",
+        "coverLarge": "/cdn/spotify/images/tracks/255329944990079d.jpg"
+      },
+      {
+        "id": "it_322847119",
+        "title": "Jam",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/68e44935c9e42cad.jpg",
+        "duration": "5:39",
+        "coverLarge": "/cdn/spotify/images/tracks/3da88d161d85fcba.jpg"
+      },
+      {
+        "id": "it_1883770179",
+        "title": "Beat It",
+        "artist": "Michael Jackson",
+        "cover": "/cdn/spotify/images/tracks/bc6f1c2527287b11.jpg",
+        "duration": "4:19",
+        "coverLarge": "/cdn/spotify/images/tracks/2b8f6881124bc0ad.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "32940",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "1150751382",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "553946387",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "104063",
+        "artistName": "Jackson 5",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "artistId": "1450601383",
+        "artistName": "Pop Smoke",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "322847038",
+        "collectionName": "Dangerous",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/tracks/68e44935c9e42cad.jpg"
+      },
+      {
+        "collectionId": "269572838",
+        "collectionName": "Thriller",
+        "artistName": "Michael Jackson",
+        "artworkUrl100": "/cdn/spotify/images/artists/c29de0d5c7bb667e.jpg"
+      },
+      {
+        "collectionId": "1733304466",
+        "collectionName": "Michael Jackson (feat. Jay Park) [Remix] - Single",
+        "artistName": "Royal 44",
+        "artworkUrl100": "/cdn/spotify/images/albums/6a23ec5c97910a63.jpg"
+      },
+      {
+        "collectionId": "1445145247",
+        "collectionName": "ABC (Performed Live On The Ed Sullivan Show 5/10/70) - Single",
+        "artistName": "Jackson 5",
+        "artworkUrl100": "/cdn/spotify/images/albums/14aaa6e162d59dd9.jpg"
+      },
+      {
+        "collectionId": "1617262267",
+        "collectionName": "Michael Jackson - Single",
+        "artistName": "YUMDDA",
+        "artworkUrl100": "/cdn/spotify/images/albums/60e466147638f4d8.jpg"
+      }
+    ]
+  },
+  "晴天": {
+    "songs": [
+      {
+        "id": "it_535824738",
+        "title": "晴天",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg",
+        "duration": "4:29",
+        "coverLarge": "/cdn/spotify/images/tracks/3be093c345da20c4.jpg"
+      },
+      {
+        "id": "it_1673209898",
+        "title": "晴天 (女版)",
+        "artist": "田各田各",
+        "cover": "/cdn/spotify/images/tracks/d65b93600f08cf8c.jpg",
+        "duration": "3:18",
+        "coverLarge": "/cdn/spotify/images/tracks/fbb22c4f288bcd51.jpg"
+      },
+      {
+        "id": "it_1700733610",
+        "title": "晴天",
+        "artist": "Revina Wu",
+        "cover": "/cdn/spotify/images/tracks/cc1bdc6d64e2ca42.jpg",
+        "duration": "2:31",
+        "coverLarge": "/cdn/spotify/images/tracks/0270e0fd78822f24.jpg"
+      },
+      {
+        "id": "it_535913714",
+        "title": "晴天 (Live)",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/49cd880eb3c4386c.jpg",
+        "duration": "4:59",
+        "coverLarge": "/cdn/spotify/images/tracks/0419cf422d4829ff.jpg"
+      },
+      {
+        "id": "it_1485210490",
+        "title": "晴天 (Live)",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/36936e347b26b92a.jpg",
+        "duration": "4:09",
+        "coverLarge": "/cdn/spotify/images/tracks/6e6b5ebfb56317e9.jpg"
+      },
+      {
+        "id": "it_1786516662",
+        "title": "晴天 (鋼琴版)",
+        "artist": "CIP Music",
+        "cover": "/cdn/spotify/images/tracks/60b9c295a66b72a0.jpg",
+        "duration": "4:27",
+        "coverLarge": "/cdn/spotify/images/tracks/510890b786c6c40f.jpg"
+      },
+      {
+        "id": "it_1796520821",
+        "title": "像晴天像雨天(電視劇《難哄》心動曲)",
+        "artist": "汪蘇瀧",
+        "cover": "/cdn/spotify/images/tracks/d3460d6c736b8bd7.jpg",
+        "duration": "3:56",
+        "coverLarge": "/cdn/spotify/images/tracks/383192207c95999e.jpg"
+      },
+      {
+        "id": "it_1848775318",
+        "title": "晴天 (吉他版)",
+        "artist": "郭衡",
+        "cover": "/cdn/spotify/images/tracks/cd5d1c678524cb80.jpg",
+        "duration": "3:06",
+        "coverLarge": "/cdn/spotify/images/tracks/51c8e19a5299713f.jpg"
+      },
+      {
+        "id": "it_1623572747",
+        "title": "晴天 (鋼琴版)",
+        "artist": "紀鈞瀚",
+        "cover": "/cdn/spotify/images/tracks/6fbec79ca56ffe4d.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/7feeee7319600c09.jpg"
+      },
+      {
+        "id": "it_1543369096",
+        "title": "晴天",
+        "artist": "何維健",
+        "cover": "/cdn/spotify/images/tracks/80c7388c377c10b7.jpg",
+        "duration": "3:27",
+        "coverLarge": "/cdn/spotify/images/tracks/c9bbb2bbb160d136.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg"
+      },
+      {
+        "artistId": "538501904",
+        "artistName": "晴天",
+        "artworkUrl100": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg"
+      },
+      {
+        "artistId": "1464735850",
+        "artistName": "晴天",
+        "artworkUrl100": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg"
+      },
+      {
+        "artistId": "1640379527",
+        "artistName": "晴天姐妹",
+        "artworkUrl100": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg"
+      },
+      {
+        "artistId": "1631907492",
+        "artistName": "晴天",
+        "artworkUrl100": "/cdn/spotify/images/artists/5a391509cd9e0741.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1828185064",
+        "collectionName": "晴天雨(2024全國高中生大合唱) - Single",
+        "artistName": "李偉聖, 何語庭, 朱柏翰, 姚東佑, 汪宥廷, 黃雅暄, 屈妤臻, 吳昕柔, 王建騏, 楊采霏, 陳亭妤, 林譽凱, 陳詠歆, 吳華恩, 侯宥圻, 楊詠婷, 張庭甄, 黃若晴, 鍾幸岑, 丁幼蓁, 周悅茵, 何黛莉, 高晨翔, 卓羿呈, 余佳玲, 謝承珊, 黃軍皓 & 吳映汝",
+        "artworkUrl100": "/cdn/spotify/images/albums/39c15f79ad6bc43b.jpg"
+      },
+      {
+        "collectionId": "1700733609",
+        "collectionName": "晴天 - Single",
+        "artistName": "Revina Wu",
+        "artworkUrl100": "/cdn/spotify/images/tracks/cc1bdc6d64e2ca42.jpg"
+      },
+      {
+        "collectionId": "1632147960",
+        "collectionName": "晴天 - Single",
+        "artistName": "蘇念一",
+        "artworkUrl100": "/cdn/spotify/images/albums/e5e0ef95f7f58b10.jpg"
+      },
+      {
+        "collectionId": "1673209625",
+        "collectionName": "晴天 (女版) - Single",
+        "artistName": "田各田各",
+        "artworkUrl100": "/cdn/spotify/images/tracks/d65b93600f08cf8c.jpg"
+      },
+      {
+        "collectionId": "1675201612",
+        "collectionName": "晴天 - Single",
+        "artistName": "李嘉桐",
+        "artworkUrl100": "/cdn/spotify/images/albums/4dd8403b1633d6d8.jpg"
+      }
+    ]
+  },
+  "搁浅": {
+    "songs": [
+      {
+        "id": "it_536115199",
+        "title": "擱淺",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/artists/bde01133fec10f3e.jpg",
+        "duration": "3:58",
+        "coverLarge": "/cdn/spotify/images/tracks/28dc76b1a1ef07fa.jpg"
+      },
+      {
+        "id": "it_535913724",
+        "title": "擱淺 (Live)",
+        "artist": "周杰倫",
+        "cover": "/cdn/spotify/images/tracks/49cd880eb3c4386c.jpg",
+        "duration": "4:21",
+        "coverLarge": "/cdn/spotify/images/tracks/0419cf422d4829ff.jpg"
+      },
+      {
+        "id": "it_1600307184",
+        "title": "擱淺 (Live)",
+        "artist": "楊丞琳",
+        "cover": "/cdn/spotify/images/tracks/4cca20ff85faac38.jpg",
+        "duration": "3:51",
+        "coverLarge": "/cdn/spotify/images/tracks/43f34207143ec9d3.jpg"
+      },
+      {
+        "id": "it_1781631875",
+        "title": "擱淺",
+        "artist": "孫穎",
+        "cover": "/cdn/spotify/images/tracks/4d9855e70c965239.jpg",
+        "duration": "4:30",
+        "coverLarge": "/cdn/spotify/images/tracks/8b4d312e381ec1b9.jpg"
+      },
+      {
+        "id": "it_1851102763",
+        "title": "擱淺",
+        "artist": "BK",
+        "cover": "/cdn/spotify/images/tracks/0d3c7ceb2de97e71.jpg",
+        "duration": "3:34",
+        "coverLarge": "/cdn/spotify/images/tracks/1044918e4ede31d3.jpg"
+      },
+      {
+        "id": "it_1840066554",
+        "title": "擱淺",
+        "artist": "BK",
+        "cover": "/cdn/spotify/images/tracks/7808e7f75a1446d1.jpg",
+        "duration": "3:34",
+        "coverLarge": "/cdn/spotify/images/tracks/039f0e9274928b29.jpg"
+      },
+      {
+        "id": "it_1724925732",
+        "title": "擱淺 (Live)",
+        "artist": "曹楊",
+        "cover": "/cdn/spotify/images/tracks/13e39a9e2ac6c948.jpg",
+        "duration": "3:50",
+        "coverLarge": "/cdn/spotify/images/tracks/669deb001cb2fe62.jpg"
+      },
+      {
+        "id": "it_1631475448",
+        "title": "擱淺",
+        "artist": "張杰",
+        "cover": "/cdn/spotify/images/tracks/23c94f973dc04614.jpg",
+        "duration": "4:34",
+        "coverLarge": "/cdn/spotify/images/tracks/1328c2105bf98e63.jpg"
+      },
+      {
+        "id": "it_1583833499",
+        "title": "擱淺",
+        "artist": "渡",
+        "cover": "/cdn/spotify/images/tracks/33942da2cd13cd6c.jpg",
+        "duration": "3:29",
+        "coverLarge": "/cdn/spotify/images/tracks/c03ee04909f649bf.jpg"
+      },
+      {
+        "id": "it_1800751445",
+        "title": "擱淺的人",
+        "artist": "康士坦的變化球",
+        "cover": "/cdn/spotify/images/tracks/6078e65a091047d7.jpg",
+        "duration": "4:31",
+        "coverLarge": "/cdn/spotify/images/tracks/690fd78ca5961e00.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "300117743",
+        "artistName": "周杰倫",
+        "artworkUrl100": "/cdn/spotify/images/artists/bde01133fec10f3e.jpg"
+      },
+      {
+        "artistId": "1670031976",
+        "artistName": "搁浅的鱼.",
+        "artworkUrl100": "/cdn/spotify/images/artists/bde01133fec10f3e.jpg"
+      },
+      {
+        "artistId": "1607012845",
+        "artistName": "搁浅的鱼",
+        "artworkUrl100": "/cdn/spotify/images/artists/bde01133fec10f3e.jpg"
+      },
+      {
+        "artistId": "1764410141",
+        "artistName": "搁浅的鱼.",
+        "artworkUrl100": "/cdn/spotify/images/artists/bde01133fec10f3e.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1840066553",
+        "collectionName": "擱淺 - Single",
+        "artistName": "BK",
+        "artworkUrl100": "/cdn/spotify/images/tracks/7808e7f75a1446d1.jpg"
+      },
+      {
+        "collectionId": "1668025432",
+        "collectionName": "被这个世界骗到想结婚 - Single",
+        "artistName": "擱淺的魚",
+        "artworkUrl100": "/cdn/spotify/images/albums/73695a2ec3a61ba5.jpg"
+      },
+      {
+        "collectionId": "1590643573",
+        "collectionName": "搁浅 - Single",
+        "artistName": "虎牙妹",
+        "artworkUrl100": "/cdn/spotify/images/albums/91010abb72a2d34d.jpg"
+      },
+      {
+        "collectionId": "1800751034",
+        "collectionName": "擱淺的人",
+        "artistName": "康士坦的變化球",
+        "artworkUrl100": "/cdn/spotify/images/tracks/6078e65a091047d7.jpg"
+      },
+      {
+        "collectionId": "1763074565",
+        "collectionName": "搁浅 - Single",
+        "artistName": "趙偲旖",
+        "artworkUrl100": "/cdn/spotify/images/albums/0b0c879516bef960.jpg"
+      }
+    ]
+  },
+  "修炼爱情": {
+    "songs": [
+      {
+        "id": "it_1694849138",
+        "title": "修煉愛情",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/artists/bd916f1ce9cd801d.jpg",
+        "duration": "4:47",
+        "coverLarge": "/cdn/spotify/images/tracks/85af4ee6dbfc5c21.jpg"
+      },
+      {
+        "id": "it_1147948970",
+        "title": "修煉愛情 (Live)",
+        "artist": "徐佳瑩",
+        "cover": "/cdn/spotify/images/tracks/2fc421622459b59b.jpg",
+        "duration": "4:46",
+        "coverLarge": "/cdn/spotify/images/tracks/ae8aa3c17081f26e.jpg"
+      },
+      {
+        "id": "it_1487091677",
+        "title": "修煉愛情 (Live)",
+        "artist": "徐佳瑩",
+        "cover": "/cdn/spotify/images/tracks/8ff8780265fdec0d.jpg",
+        "duration": "4:41",
+        "coverLarge": "/cdn/spotify/images/tracks/49efedc2b94beac5.jpg"
+      },
+      {
+        "id": "it_1063261262",
+        "title": "修煉愛情",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/c991f0302af16a8d.jpg",
+        "duration": "4:47",
+        "coverLarge": "/cdn/spotify/images/tracks/90942466546a79d2.jpg"
+      },
+      {
+        "id": "it_1802717857",
+        "title": "修煉愛情",
+        "artist": "普通隊長",
+        "cover": "/cdn/spotify/images/tracks/87cbd43ec89b031c.jpg",
+        "duration": "2:54",
+        "coverLarge": "/cdn/spotify/images/tracks/812c2b7f431febd6.jpg"
+      },
+      {
+        "id": "it_1664065494",
+        "title": "修煉愛情 (Jazz Version)",
+        "artist": "林俊傑",
+        "cover": "/cdn/spotify/images/tracks/a62a859bd7451de3.jpg",
+        "duration": "5:32",
+        "coverLarge": "/cdn/spotify/images/tracks/502859c9b8db09f6.jpg"
+      },
+      {
+        "id": "it_1848338956",
+        "title": "修練愛情 (鋼琴版)",
+        "artist": "鋼琴心情",
+        "cover": "/cdn/spotify/images/tracks/aa0ad8a61f2ed6f5.jpg",
+        "duration": "4:51",
+        "coverLarge": "/cdn/spotify/images/tracks/e1cb22df91694ade.jpg"
+      },
+      {
+        "id": "it_1699770682",
+        "title": "修煉愛情 (Live)",
+        "artist": "徐佳瑩",
+        "cover": "/cdn/spotify/images/tracks/d5508069160df904.jpg",
+        "duration": "4:44",
+        "coverLarge": "/cdn/spotify/images/tracks/dbde91987719d56e.jpg"
+      },
+      {
+        "id": "it_1680079814",
+        "title": "修煉愛情",
+        "artist": "秦沐",
+        "cover": "/cdn/spotify/images/tracks/ee18809f5307a80a.jpg",
+        "duration": "4:21",
+        "coverLarge": "/cdn/spotify/images/tracks/e1568e0717ca664b.jpg"
+      },
+      {
+        "id": "it_1680823910",
+        "title": "只剩時間 (修煉愛情的心酸)",
+        "artist": "夏以岛",
+        "cover": "/cdn/spotify/images/tracks/604e79c7399bb271.jpg",
+        "duration": "2:09",
+        "coverLarge": "/cdn/spotify/images/tracks/693314a054c56eee.jpg"
+      }
+    ],
+    "artists": [
+      {
+        "artistId": "216635866",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/bd916f1ce9cd801d.jpg"
+      }
+    ],
+    "albums": [
+      {
+        "collectionId": "1680823651",
+        "collectionName": "只剩时间 (修炼爱情的心酸) - Single",
+        "artistName": "夏以岛",
+        "artworkUrl100": "/cdn/spotify/images/tracks/604e79c7399bb271.jpg"
+      },
+      {
+        "collectionId": "1434667132",
+        "collectionName": "爱情修炼手册 - Single",
+        "artistName": "陳玲子",
+        "artworkUrl100": "/cdn/spotify/images/albums/294eb58c04eea92c.jpg"
+      },
+      {
+        "collectionId": "1877650991",
+        "collectionName": "修炼爱情(汉服女生版) - Single",
+        "artistName": "季风Monsoon",
+        "artworkUrl100": "/cdn/spotify/images/albums/f30c0f56d5535c27.jpg"
+      },
+      {
+        "collectionId": "1694849133",
+        "collectionName": "因你 而在",
+        "artistName": "林俊傑",
+        "artworkUrl100": "/cdn/spotify/images/artists/bd916f1ce9cd801d.jpg"
+      },
+      {
+        "collectionId": "1592221402",
+        "collectionName": "爱情修炼手册 - Single",
+        "artistName": "陳玲子",
+        "artworkUrl100": "/cdn/spotify/images/albums/41354f42afcc31a8.jpg"
+      }
+    ]
+  }
+}

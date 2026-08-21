@@ -1,0 +1,922 @@
+{
+  "user": {
+    "id": "u1",
+    "name": "Ju Zheng",
+    "initial": "J",
+    "color": "bg-amber-700"
+  },
+  "recentPlays": [
+    {
+      "id": "t1",
+      "title": "搁浅",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/046309e2eceed78b.jpg",
+      "duration": "3:58",
+      "coverLarge": "/cdn/spotify/images/tracks/28dc76b1a1ef07fa.jpg"
+    },
+    {
+      "id": "rp1",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "cover": "/cdn/spotify/images/tracks/f86742a704b71a12.jpg",
+      "duration": "3:50",
+      "coverLarge": "/cdn/spotify/images/tracks/6e4c4ea3a61359d8.jpg"
+    },
+    {
+      "id": "rp2",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "cover": "/cdn/spotify/images/categories/8d26fdde1e0cf6d0.jpg",
+      "duration": "3:14",
+      "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+    },
+    {
+      "id": "rp3",
+      "title": "Welcome to New York",
+      "artist": "Taylor Swift",
+      "cover": "/cdn/spotify/images/tracks/63f08f3e6032a2c3.jpg",
+      "duration": "3:32",
+      "coverLarge": "/cdn/spotify/images/tracks/206b75c51a146f5f.jpg"
+    },
+    {
+      "id": "rp4",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "cover": "/cdn/spotify/images/tracks/1844214d88601412.jpg",
+      "duration": "3:55",
+      "coverLarge": "/cdn/spotify/images/tracks/16b615b9181a4193.jpg"
+    },
+    {
+      "id": "rp5",
+      "title": "Rolling In the Deep",
+      "artist": "Adele",
+      "cover": "/cdn/spotify/images/tracks/329411e80a3b215c.jpg",
+      "duration": "3:48",
+      "coverLarge": "/cdn/spotify/images/tracks/78828c39c5ee5dd6.jpg"
+    }
+  ],
+  "startListening": [
+    {
+      "id": "t1",
+      "title": "搁浅",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/046309e2eceed78b.jpg",
+      "duration": "3:58",
+      "coverLarge": "/cdn/spotify/images/tracks/28dc76b1a1ef07fa.jpg"
+    },
+    {
+      "id": "t2",
+      "title": "修炼爱情",
+      "artist": "林俊杰",
+      "cover": "/cdn/spotify/images/tracks/9389fe3df340e5c0.jpg",
+      "duration": "4:47",
+      "coverLarge": "/cdn/spotify/images/tracks/85af4ee6dbfc5c21.jpg"
+    },
+    {
+      "id": "t3",
+      "title": "有何不可",
+      "artist": "许嵩",
+      "cover": "/cdn/spotify/images/tracks/929b5648e87d723f.jpg",
+      "duration": "4:06",
+      "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+    }
+  ],
+  "recommendedTracks": [
+    {
+      "id": "t1",
+      "title": "搁浅",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/046309e2eceed78b.jpg",
+      "duration": "3:58",
+      "coverLarge": "/cdn/spotify/images/tracks/28dc76b1a1ef07fa.jpg"
+    },
+    {
+      "id": "t2",
+      "title": "修炼爱情",
+      "artist": "林俊杰",
+      "cover": "/cdn/spotify/images/tracks/9389fe3df340e5c0.jpg",
+      "duration": "4:47",
+      "coverLarge": "/cdn/spotify/images/tracks/85af4ee6dbfc5c21.jpg"
+    },
+    {
+      "id": "t3",
+      "title": "有何不可",
+      "artist": "许嵩",
+      "cover": "/cdn/spotify/images/tracks/929b5648e87d723f.jpg",
+      "duration": "4:06",
+      "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+    }
+  ],
+  "extraTracks": [
+    {
+      "id": "mt1",
+      "title": "青花瓷",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/cd72a023613787d1.jpg",
+      "duration": "3:59",
+      "coverLarge": "/cdn/spotify/images/tracks/b54beb779b8a39ed.jpg"
+    },
+    {
+      "id": "mt2",
+      "title": "稻香",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/b933dc425e04bbf5.jpg",
+      "duration": "3:43",
+      "coverLarge": "/cdn/spotify/images/tracks/9ef6a088e55e247d.jpg"
+    },
+    {
+      "id": "mt3",
+      "title": "晴天",
+      "artist": "周杰伦",
+      "cover": "/cdn/spotify/images/tracks/cd72a023613787d1.jpg",
+      "duration": "4:29",
+      "coverLarge": "/cdn/spotify/images/tracks/b54beb779b8a39ed.jpg"
+    },
+    {
+      "id": "mt4",
+      "title": "后来遇见他",
+      "artist": "胡66",
+      "cover": "/cdn/spotify/images/tracks/15f2f2fc7dbbffc1.jpg",
+      "duration": "3:21",
+      "coverLarge": "/cdn/spotify/images/tracks/f163e6f95b0c0ca7.jpg"
+    },
+    {
+      "id": "mt5",
+      "title": "爱我还是他",
+      "artist": "陶喆",
+      "cover": "/cdn/spotify/images/tracks/43285af072f85e05.jpg",
+      "duration": "4:52",
+      "coverLarge": "/cdn/spotify/images/tracks/6e2d59f7e9379d8e.jpg"
+    },
+    {
+      "id": "mt6",
+      "title": "爱爱爱",
+      "artist": "方大同",
+      "cover": "/cdn/spotify/images/tracks/1f896c709a975f13.jpg",
+      "duration": "3:33",
+      "coverLarge": "/cdn/spotify/images/tracks/0e0f760b9d2a7fd9.jpg"
+    },
+    {
+      "id": "mt7",
+      "title": "用背脊唱情歌",
+      "artist": "Gareth.T",
+      "cover": "/cdn/spotify/images/tracks/07868f3cffe1c59d.jpg",
+      "duration": "3:45",
+      "coverLarge": "/cdn/spotify/images/tracks/fccabe655ffc7495.jpg"
+    },
+    {
+      "id": "mt8",
+      "title": "Don't Say You Love Me",
+      "artist": "Jin",
+      "cover": "/cdn/spotify/images/tracks/ea3ef7b43f6108d7.jpg",
+      "duration": "3:12",
+      "coverLarge": "/cdn/spotify/images/tracks/56a592fc24327765.jpg"
+    },
+    {
+      "id": "mt9",
+      "title": "你要倔强",
+      "artist": "姜涛",
+      "cover": "/cdn/spotify/images/tracks/b7a3ef676d234466.jpg",
+      "duration": "4:01",
+      "coverLarge": "/cdn/spotify/images/tracks/2d4963ded144e670.jpg"
+    }
+  ],
+  "personalizedPlaylists": [
+    {
+      "id": "p1",
+      "title": "华语R&B精选",
+      "subtitle": "周杰伦、陶喆、林宥嘉",
+      "cover": "/cdn/spotify/images/playlists/aedecdb6895dd59b.jpg",
+      "coverLarge": "/cdn/spotify/images/playlists/d7f706394ce1063b.jpg"
+    },
+    {
+      "id": "p2",
+      "title": "轻声摇滚",
+      "subtitle": "房东的猫、告五人",
+      "cover": "/cdn/spotify/images/playlists/f940da4a707b785a.jpg",
+      "coverLarge": "/cdn/spotify/images/playlists/5f5c88196bb44013.jpg"
+    },
+    {
+      "id": "p3",
+      "title": "夜幕City Pop",
+      "subtitle": "Lamp、Vaundy、Anri",
+      "cover": "/cdn/spotify/images/playlists/5260f6911a686004.jpg",
+      "coverLarge": "/cdn/spotify/images/playlists/a5831c76cc1129d7.jpg"
+    },
+    {
+      "id": "p4",
+      "title": "公路旅行",
+      "subtitle": "落日飞车、陈粒",
+      "cover": "/cdn/spotify/images/playlists/36b5328b0ae61f9a.jpg",
+      "coverLarge": "/cdn/spotify/images/playlists/024425fe5b1c72a4.jpg"
+    }
+  ],
+  "dailyPicks": [
+    {
+      "id": "radio_1",
+      "title": "有何不可 电台",
+      "subtitle": "Spotify • Radio",
+      "cover": "/cdn/spotify/images/tracks/929b5648e87d723f.jpg",
+      "type": "playlist",
+      "coverLarge": "/cdn/spotify/images/tracks/d783c822975b7f94.jpg"
+    },
+    {
+      "id": "dp1",
+      "title": "新的心跳",
+      "subtitle": "邓紫棋",
+      "cover": "/cdn/spotify/images/tracks/6bc77d32f027943b.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/011f679d15ea76ff.jpg"
+    },
+    {
+      "id": "dp2",
+      "title": "林忆莲",
+      "subtitle": "林忆莲",
+      "cover": "/cdn/spotify/images/tracks/36750a89cdb00322.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/7260f15c182fb4b3.jpg"
+    },
+    {
+      "id": "dp3",
+      "title": "雨爱",
+      "subtitle": "杨丞琳",
+      "cover": "/cdn/spotify/images/tracks/87168f301bd59f15.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/b78c79d793d1bc43.jpg"
+    },
+    {
+      "id": "dp4",
+      "title": "薛之谦",
+      "subtitle": "薛之谦",
+      "cover": "/cdn/spotify/images/tracks/f3ac3408f98af77b.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/66b972ec9bce3f15.jpg"
+    },
+    {
+      "id": "dp5",
+      "title": "忍了吧",
+      "subtitle": "陈奕迅",
+      "cover": "/cdn/spotify/images/artists/a28152b5be62a920.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/63f5c3e134ed9bfb.jpg"
+    },
+    {
+      "id": "dp6",
+      "title": "The Moment",
+      "subtitle": "孙燕姿",
+      "cover": "/cdn/spotify/images/artists/ed819c57e605dc99.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/03df63fbf2e40bc1.jpg"
+    }
+  ],
+  "libraryArtists": [
+    {
+      "id": "a1",
+      "name": "许嵩",
+      "subtitle": "与相似的更多艺人",
+      "avatar": "/cdn/spotify/images/categories/1e18c2ee7a0fb340.jpg"
+    },
+    {
+      "id": "a2",
+      "name": "林俊杰",
+      "subtitle": "艺人",
+      "avatar": "/cdn/spotify/images/categories/1e18c2ee7a0fb340.jpg"
+    },
+    {
+      "id": "a3",
+      "name": "周杰伦",
+      "subtitle": "艺人",
+      "avatar": "/cdn/spotify/images/categories/1e18c2ee7a0fb340.jpg"
+    }
+  ],
+  "followedArtists": [
+    "许嵩",
+    "林俊杰",
+    "周杰伦"
+  ],
+  "similarArtistSections": [
+    {
+      "id": "s1",
+      "anchor": "許嵩",
+      "avatar": "/cdn/spotify/images/categories/6eeb258765394021.jpg",
+      "playlists": [
+        {
+          "id": "sa1",
+          "title": "2010年代 華語最流行",
+          "subtitle": "鄧紫棋,盧廣仲,周興哲,汪蘇瀧,告五人",
+          "cover": "/cdn/spotify/images/categories/6eeb258765394021.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/c572eacbf7483975.jpg"
+        },
+        {
+          "id": "sa2",
+          "title": "經典傳唱",
+          "subtitle": "陳奕迅,蔡健雅,李聖傑,韋禮安,莫文蔚",
+          "cover": "/cdn/spotify/images/playlists/0b357bede7b79fff.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/53da6b1dbb9feca3.jpg"
+        },
+        {
+          "id": "sa3",
+          "title": "暖",
+          "subtitle": "汪蘇瀧,陳華",
+          "cover": "/cdn/spotify/images/playlists/e0d713f8ae1753f4.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/5724acc6101a6f90.jpg"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "anchor": "林俊傑",
+      "avatar": "/cdn/spotify/images/artists/c92bcd4ad2fee2d2.jpg",
+      "playlists": [
+        {
+          "id": "sb1",
+          "title": "十年全精選: 華語流行",
+          "subtitle": "周杰倫, 陳奕迅, 鄧紫棋, 林俊傑, 周興哲",
+          "cover": "/cdn/spotify/images/artists/c92bcd4ad2fee2d2.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/tracks/87c631f7103ecbc4.jpg"
+        },
+        {
+          "id": "sb2",
+          "title": "情歌不敗",
+          "subtitle": "鄧紫棋,盧廣仲,周興哲,孙燕姿,陶喆",
+          "cover": "/cdn/spotify/images/playlists/2b0c969228c72437.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/d01cf6a579078cc3.jpg"
+        },
+        {
+          "id": "sb3",
+          "title": "雨愛",
+          "subtitle": "楊丞琳",
+          "cover": "/cdn/spotify/images/tracks/87168f301bd59f15.jpg",
+          "type": "album",
+          "coverLarge": "/cdn/spotify/images/tracks/b78c79d793d1bc43.jpg"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "anchor": "周杰倫",
+      "avatar": "/cdn/spotify/images/artists/8f2fdc05f372bcf4.jpg",
+      "playlists": [
+        {
+          "id": "sc1",
+          "title": "華語R&B精選",
+          "subtitle": "周杰倫,陶喆,方大同,林宥嘉",
+          "cover": "/cdn/spotify/images/artists/8f2fdc05f372bcf4.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/4204a305367e7522.jpg"
+        },
+        {
+          "id": "sc2",
+          "title": "情歌天王",
+          "subtitle": "周杰倫,陶喆,林俊傑,陳奕迅",
+          "cover": "/cdn/spotify/images/playlists/395558d4ea5001dd.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/2eb2127de1df4948.jpg"
+        },
+        {
+          "id": "sc3",
+          "title": "獨特嗓音",
+          "subtitle": "林宥嘉,方大同,韋禮安",
+          "cover": "/cdn/spotify/images/playlists/32668414d2729511.jpg",
+          "type": "playlist",
+          "coverLarge": "/cdn/spotify/images/playlists/7a42a46661b2a82f.jpg"
+        }
+      ]
+    }
+  ],
+  "charts": [
+    {
+      "id": "c1",
+      "title": "Top 50 Hong Kong",
+      "subtitle": "每日更新的热门曲目",
+      "cover": "/cdn/spotify/images/tracks/ff11a759e9f86ef8.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/d272dce8a5197f43.jpg"
+    },
+    {
+      "id": "c2",
+      "title": "最Hit粤语榜",
+      "subtitle": "粤语流行精选",
+      "cover": "/cdn/spotify/images/tracks/d3f601130f116335.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/8ecb42cb3e0c0768.jpg"
+    }
+  ],
+  "featuredCharts": [
+    {
+      "id": "fc1",
+      "title": "Viral 50 Hong Kong",
+      "subtitle": "飙升最快的歌曲",
+      "cover": "/cdn/spotify/images/tracks/10f84fba6817dfca.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/3ed3b536139abafe.jpg"
+    },
+    {
+      "id": "fc2",
+      "title": "Top Songs Hong Kong",
+      "subtitle": "每周最热单曲",
+      "cover": "/cdn/spotify/images/tracks/ea32d05c6bc939a4.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/f29d92a3c31386c2.jpg"
+    }
+  ],
+  "recommendedArtists": [
+    {
+      "id": "ra1",
+      "name": "张芸京",
+      "subtitle": "摇滚女声",
+      "avatar": "/cdn/spotify/images/artists/f67f114b9e024a2e.jpg"
+    },
+    {
+      "id": "ra2",
+      "name": "胡彦斌",
+      "subtitle": "全能制作人",
+      "avatar": "/cdn/spotify/images/artists/56c821b049f407ca.jpg"
+    },
+    {
+      "id": "ra3",
+      "name": "王心凌",
+      "subtitle": "甜蜜情歌",
+      "avatar": "/cdn/spotify/images/artists/6625568a70faef91.jpg"
+    }
+  ],
+  "throwback": [
+    {
+      "id": "tb1",
+      "title": "2000年代华语金曲",
+      "subtitle": "Jay Chou, Eason Chan, David Tao",
+      "cover": "/cdn/spotify/images/tracks/453860584ede29c7.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/fea122d9c3bb50cd.jpg"
+    },
+    {
+      "id": "tb2",
+      "title": "Tokyo City Pop",
+      "subtitle": "Vaundy、宇多田光",
+      "cover": "/cdn/spotify/images/tracks/93a24f8328aeadc4.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/7db8db976537be1a.jpg"
+    }
+  ],
+  "newHotSelections": [
+    {
+      "id": "nh1",
+      "title": "还好有你",
+      "subtitle": "Hayden 黄程晗, Ge1nes",
+      "cover": "/cdn/spotify/images/tracks/11ce0b922ba2855b.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/4febea9ef702d7c0.jpg"
+    },
+    {
+      "id": "nh2",
+      "title": "灵魂共振",
+      "subtitle": "方立维 ALI",
+      "cover": "/cdn/spotify/images/tracks/8b1e01b2d3e3b045.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/d1425f851b277042.jpg"
+    }
+  ],
+  "hottestToday": [
+    {
+      "id": "ht1",
+      "title": "高人气金曲",
+      "subtitle": "Eason Chan, Khalil Fong",
+      "cover": "/cdn/spotify/images/tracks/17a391c8f78b8093.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/4e2c358c5fcc977c.jpg"
+    },
+    {
+      "id": "ht2",
+      "title": "K-Ost Center",
+      "subtitle": "韩剧OST精选",
+      "cover": "/cdn/spotify/images/tracks/7828a78aa068b2f9.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/d3903f3a47054750.jpg"
+    }
+  ],
+  "allNewMusic": [
+    {
+      "id": "nm1",
+      "title": "新歌热播",
+      "subtitle": "Terence Lam, Andy Lau",
+      "cover": "/cdn/spotify/images/tracks/cc8e3af1a04e73c6.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/5467f468daf26d68.jpg"
+    },
+    {
+      "id": "nm2",
+      "title": "听台湾 Team TAIWAN",
+      "subtitle": "张惠妹, 蕭敬腾, 陈零九",
+      "cover": "/cdn/spotify/images/tracks/76bf3d2c7c9eb4d4.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/999165d4efabab06.jpg"
+    }
+  ],
+  "party": [
+    {
+      "id": "pt1",
+      "title": "Girls’ Night",
+      "subtitle": "Taylor Swift, Ariana Grande",
+      "cover": "/cdn/spotify/images/tracks/6b6f03e6c49a4bc6.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/567504c26f420192.jpg"
+    },
+    {
+      "id": "pt2",
+      "title": "Happy Birthday",
+      "subtitle": "Katy Perry, Black Eyed Peas",
+      "cover": "/cdn/spotify/images/tracks/33f037e115f516d0.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/756eb712fc95727e.jpg"
+    }
+  ],
+  "joyful": [
+    {
+      "id": "jf1",
+      "title": "Morning K-Pop!",
+      "subtitle": "K-Pop醒神歌单",
+      "cover": "/cdn/spotify/images/tracks/971e3fe41c3231f6.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/35f01dcdc06337a8.jpg"
+    },
+    {
+      "id": "jf2",
+      "title": "我爱K歌",
+      "subtitle": "周杰伦, 卢广仲, 陶喆",
+      "cover": "/cdn/spotify/images/artists/c92bcd4ad2fee2d2.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/87c631f7103ecbc4.jpg"
+    }
+  ],
+  "sadSongs": [
+    {
+      "id": "sd1",
+      "title": "Sad 00s",
+      "subtitle": "Rihanna, Coldplay",
+      "cover": "/cdn/spotify/images/tracks/f73b7f599dc38445.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/311e82efd2860055.jpg"
+    },
+    {
+      "id": "sd2",
+      "title": "All The Feels",
+      "subtitle": "Rihanna, Frank Ocean",
+      "cover": "/cdn/spotify/images/tracks/3bdc424242af8a5f.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/37ba786a06123a83.jpg"
+    }
+  ],
+  "singAlong": [
+    {
+      "id": "sa-sing-1",
+      "title": "Karaoke K-Pop Bests",
+      "subtitle": "노래방 인기곡",
+      "cover": "/cdn/spotify/images/categories/10c39e1c003a1e45.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/8896a1868b3fa722.jpg"
+    },
+    {
+      "id": "sa-sing-2",
+      "title": "Songs To Sing In The Car",
+      "subtitle": "The Weeknd, Bruno Mars",
+      "cover": "/cdn/spotify/images/tracks/7187af4ac99c07f8.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/1410a11b0446d8b1.jpg"
+    }
+  ],
+  "trendingForYou": [
+    {
+      "id": "tfy1",
+      "title": "WHERE YOU AT",
+      "artist": "ALLDAY PROJECT, ANNIE, WOOCHAN",
+      "cover": "/cdn/spotify/images/tracks/ae165cf343b64a7d.jpg",
+      "duration": "3:12",
+      "coverLarge": "/cdn/spotify/images/tracks/729c1c6ebe07fba8.jpg"
+    },
+    {
+      "id": "tfy2",
+      "title": "JANE DOE",
+      "artist": "米津玄師, 宇多田光",
+      "cover": "/cdn/spotify/images/categories/51f36792e184c351.jpg",
+      "duration": "3:48",
+      "coverLarge": "/cdn/spotify/images/tracks/40a5e4d89b2793a8.jpg"
+    },
+    {
+      "id": "tfy3",
+      "title": "NOT CUTE ANYMORE",
+      "artist": "ILLIT",
+      "cover": "/cdn/spotify/images/tracks/290c2852dfd59854.jpg",
+      "duration": "2:59",
+      "coverLarge": "/cdn/spotify/images/tracks/49fb156c76c4f3d6.jpg"
+    }
+  ],
+  "chill": [
+    {
+      "id": "ch1",
+      "title": "K Ballad Hits",
+      "subtitle": "Roy Kim, TAEHYUN, Huh Gak",
+      "cover": "/cdn/spotify/images/tracks/cf335d0482a91649.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/ac7c18184a2f008f.jpg"
+    },
+    {
+      "id": "ch2",
+      "title": "Morning Stroll",
+      "subtitle": "Taylor Swift, The Weeknd",
+      "cover": "/cdn/spotify/images/tracks/2d76a570cdc08195.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/f4285d442b6eeefa.jpg"
+    }
+  ],
+  "instrumentals": [
+    {
+      "id": "ins1",
+      "title": "安寧鋼琴聲",
+      "subtitle": "沉浸放松的钢琴曲",
+      "cover": "/cdn/spotify/images/tracks/65a21451363154d7.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/09abf4042846c4cc.jpg"
+    },
+    {
+      "id": "ins2",
+      "title": "Afternoon Catnap",
+      "subtitle": "慵懒午后，温柔陪伴",
+      "cover": "/cdn/spotify/images/tracks/ddb2b8e3e1ae1665.jpg",
+      "coverLarge": "/cdn/spotify/images/tracks/4a6d1782cc63fb29.jpg"
+    }
+  ],
+  "searchDiscover": [
+    {
+      "id": "sd1",
+      "title": "#华语流行音乐",
+      "image": "/cdn/spotify/images/tracks/f73b7f599dc38445.jpg",
+      "bg": "bg-[#1E3264]"
+    },
+    {
+      "id": "sd2",
+      "title": "#love",
+      "image": "/cdn/spotify/images/tracks/3bdc424242af8a5f.jpg",
+      "bg": "bg-[#8F3C3C]"
+    },
+    {
+      "id": "sd3",
+      "title": "#vulnerable",
+      "image": "/cdn/spotify/images/tracks/85d53ac22d1b8502.jpg",
+      "bg": "bg-[#432A11]"
+    }
+  ],
+  "likedSongs": [
+    {
+      "id": "ls_1",
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "cover": "/cdn/spotify/images/categories/bdf9e98ba2386464.jpg",
+      "duration": "3:55",
+      "coverLarge": "/cdn/spotify/images/tracks/6bfae25e7844ae68.jpg"
+    },
+    {
+      "id": "ls_2",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "cover": "/cdn/spotify/images/tracks/1ff5af58d1e575a1.jpg",
+      "duration": "3:39",
+      "coverLarge": "/cdn/spotify/images/tracks/e23fe727087d5be8.jpg"
+    },
+    {
+      "id": "ls_3",
+      "title": "Welcome to New York",
+      "artist": "Taylor Swift",
+      "cover": "/cdn/spotify/images/tracks/63f08f3e6032a2c3.jpg",
+      "duration": "3:32",
+      "coverLarge": "/cdn/spotify/images/tracks/206b75c51a146f5f.jpg"
+    },
+    {
+      "id": "ls_4",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "cover": "/cdn/spotify/images/categories/6ea831cba844d68f.jpg",
+      "duration": "3:53",
+      "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+    },
+    {
+      "id": "ls_5",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "cover": "/cdn/spotify/images/categories/6ea831cba844d68f.jpg",
+      "duration": "4:23",
+      "coverLarge": "/cdn/spotify/images/tracks/de2439f81db8b7ad.jpg"
+    },
+    {
+      "id": "ls_6",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "cover": "/cdn/spotify/images/tracks/f86742a704b71a12.jpg",
+      "duration": "3:50",
+      "coverLarge": "/cdn/spotify/images/tracks/6e4c4ea3a61359d8.jpg"
+    },
+    {
+      "id": "ls_7",
+      "title": "Hello",
+      "artist": "Adele",
+      "cover": "/cdn/spotify/images/tracks/f584af7c1daab65b.jpg",
+      "duration": "4:55",
+      "coverLarge": "/cdn/spotify/images/tracks/0246db5d3c825d0c.jpg"
+    },
+    {
+      "id": "ls_8",
+      "title": "Rolling In the Deep",
+      "artist": "Adele",
+      "cover": "/cdn/spotify/images/tracks/329411e80a3b215c.jpg",
+      "duration": "3:48",
+      "coverLarge": "/cdn/spotify/images/tracks/78828c39c5ee5dd6.jpg"
+    },
+    {
+      "id": "ls_9",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "cover": "/cdn/spotify/images/categories/8d26fdde1e0cf6d0.jpg",
+      "duration": "3:14",
+      "coverLarge": "/cdn/spotify/images/tracks/4d75a3d2c5941aff.jpg"
+    },
+    {
+      "id": "ls_10",
+      "title": "Happier Than Ever",
+      "artist": "Billie Eilish",
+      "cover": "/cdn/spotify/images/tracks/bfcd135c0658d29b.jpg",
+      "duration": "4:58",
+      "coverLarge": "/cdn/spotify/images/tracks/eca0a8a2b7a0a657.jpg"
+    }
+  ],
+  "settings": {
+    "dataSaver": {
+      "saverMode": 1,
+      "downloadCellular": false,
+      "downloadAudioOnly": false,
+      "streamAudioOnly": false
+    },
+    "mediaQuality": {
+      "wifiQuality": "Automatic",
+      "cellQuality": "Automatic",
+      "downloadQuality": "Normal"
+    },
+    "playback": {
+      "gapless": false,
+      "automix": true,
+      "crossfade": 0,
+      "autoplay": true,
+      "monoAudio": false,
+      "broadcast": false,
+      "sleepTimer": 0,
+      "sleepFade": false,
+      "lyricsEnabled": true
+    },
+    "privacy": {
+      "shareActivity": true,
+      "privateSession": false,
+      "recentArtists": false,
+      "publicPlaylists": true,
+      "profilePlaylists": true
+    },
+    "contentDisplay": {
+      "reduceMotion": false,
+      "canvas": true,
+      "explicit": true,
+      "unavailable": false,
+      "createBtn": true
+    },
+    "appsDevices": {
+      "voiceAssistant": true,
+      "connectControl": true,
+      "localVisibility": false,
+      "localFiles": false
+    }
+  },
+  "podcastData": [
+    {
+      "id": "pod_1000744018924",
+      "title": "How to Become 37.78 Times Better at Anything: An Easy & Proven Way to Build Habits",
+      "podcastName": "The Mel Robbins Podcast",
+      "description": "In today's episode, you're going to learn an easy and proven way to build good habits and break bad ones. \nHere to offer you a guide to improving your life, no matter what your goals are, is James Clear – the #1 New York Times bestselling author of Atomic Habits, which is one of Mel's favorite books. \nJames Clear is one of the world's leading experts on habit formation and behavior change. His work has helped millions of people lose weight, quit smoking and vaping, stop drinking, build businesses, start new chapters, achieve lifelong goals, and become the person they want to be. \nIn this conversation, James reveals a simple truth most people never learn: if you're struggling to change your habits, the problem isn't you – it's your systems. \nBad habits don't repeat because you lack motivation or willpower. They repeat because your system is designed to produce them. \nJames breaks down the proven frameworks behind lasting change and explains how tiny, consistent improvements compound into extraordinary results over time. \nAnd even if you have read the book Atomic Habits, which Mel has several times, there are things in the interview today that James says that he has never shared before. \nHe will also cover the things he wished he had written about when he wrote Atomic Habits 7 years ago! \nIn this episode, you'll learn how to: \n-Make time for new habits \n-Overcome a lack of motivation \n-Design your environment to make success easier \n-Get back on track quickly when you fall off course \n-How 1% improvements compound into extraordinary results \n-The difference between goals and systems - How to break bad habits without relying on willpower \n-The identity shift that makes change permanent \nBy the end of this episode, you'll understand why change has felt so hard in the past - and you'll walk away with a proven system you can use for the rest of your life. \nFor more resources related to today's episode, click here for the podcast episode page.  \nIf you liked the episode, check out this one next: How to Get Things Done, Stay Focused and Be More Productive\nConnect with Mel:  \n \nOrder Pure Genius ProteinGet Mel's newsletter, packed with tools, coaching, and inspiration.Get Mel's #1 bestselling book, The Let Them TheoryWatch the episodes on YouTubeFollow Mel on Instagram The Mel Robbins Podcast InstagramMel's TikTok Subscribe to SiriusXM Podcasts+ to listen to new episodes ad-freeDisclaimer\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "cover": "/cdn/spotify/images/playlists/23f59a5fff4d62a1.jpg",
+      "date": "2026/1/8",
+      "duration": "90 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/0df898f2ea6f205f.jpg"
+    },
+    {
+      "id": "pod_1000742817710",
+      "title": "7 Things to Tell Yourself Every Day",
+      "podcastName": "The Mel Robbins Podcast",
+      "description": "This episode is about taking your power back and giving yourself the credit you deserve. \nEveryone needs a friend who reminds you who you really are. Today, Mel is that friend. \nIn this episode, Mel shares 7 powerful things to remind yourself every day. These carefully chosen sentences pull you back into your strength, your courage, and your confidence. \nThey are the words you need to hear that activate the most capable version of you. \nThis episode will help you: \n-Reclaim your power when you've been playing small or second-guessing yourself \n-Set boundaries that protect your energy without guilt \n-Stop letting other people's moods, opinions, or expectations dictate your day \n-Get out of comparison and focus on your own progress \n-Let go of what's draining you and refocus on what actually matters \n-Move forward with more clarity, confidence, and intention \nThese powerful reminders are paired with the science behind why they work, so you're not just inspired in the moment, but so you understand how to make changes that last. \nMel reminds you what you need to hear most: you are not powerless. \nThis episode is not about fixing what is wrong with you. You are not broken. It's about remembering who you are and how capable you've always been.\nYou'll walk away feeling more grounded, more in control, and more like yourself. \nHit play when you want to feel clear, steady, and back in charge. \nFor more resources related to today's episode, click here for the podcast episode page.  \nIf you liked the episode, check out this one next: How to Make 2026 the Best Year: 6 Questions to Ask Yourself\nAs a gift to listeners of The Mel Robbins Podcast, Mel has created a free 20-page workbook to help you make 2026 a great year. This workbook is designed using the latest research to help you get clear about what you want and empower you to take the next step forward in your life. And the cool part? It takes less than a minute for you to get your hands on it. Just sign up at melrobbins.com/bestyear. \nConnect with Mel:  \n \nGet Mel's brand new product, Pure Genius ProteinGet Mel's newsletter, packed with tools, coaching, and inspiration.Get Mel's #1 bestselling book, The Let Them TheoryWatch the episodes on YouTubeFollow Mel on Instagram The Mel Robbins Podcast InstagramMel's TikTok Subscribe to SiriusXM Podcasts+ to listen to new episodes ad-freeDisclaimer\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "cover": "/cdn/spotify/images/playlists/23f59a5fff4d62a1.jpg",
+      "date": "2026/1/5",
+      "duration": "66 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/0df898f2ea6f205f.jpg"
+    },
+    {
+      "id": "pod_1000742817259",
+      "title": "2026 Body Reset: How to Get Stronger, Lose Fat, & Take Control of Your Health",
+      "podcastName": "The Mel Robbins Podcast",
+      "description": "Today's episode is a MUST listen. \nThis is your 2026 Body Reset and it's all about taking control of your health once and for all. \nIf you want to get stronger, lose fat, move better, and feel good in your body again –  without extreme workouts, punishing diets, or guessing what actually works – this episode will give you a clear, proven path forward. \nFor too long, people have been told to ignore pain, push through exhaustion, and accept stiffness, weight gain, and chronic discomfort as \"part of getting older.\"\nThat ends now. \nToday, Mel sits down with Dr. Betsy Grunch, one of the top neurosurgeons and spine surgeons in the world, known to millions online as Lady Spine Doc, where her advice on health has earned her over 185 million likes on TikTok alone. \nIn this powerful, practical episode, Dr. Grunch breaks down how to eat, sleep, and move in a way that protects your body, builds strength, and keeps you out of pain.  \nShe shares her own transformation from caregiver to neurosurgeon to losing over 85 pounds and rebuilding her own health, and what that taught her about sustainable change. \nThen, she reveals the proven protocol she uses with patients every day to help them lose fat, regain strength, and take control of their health. \nShe also explains why most people are unknowingly damaging their bodies through everyday habits, why pain is a warning sign you should never ignore, and how small changes compound into massive results over time. \nIn this episode, you'll learn: \n-The everyday habits that quietly damage your spine (and speed up aging) \n-The biggest posture and movement mistakes most people make \n-What tech neck is and how to reverse it\n-How to sleep for better spine health (including the best positions and pillow) \n-How to rebuild muscle and gain mobility with 2 simple exercises \n-How to get stronger and lose fat without wrecking your joints or back \n-Why sitting, sleeping, and lifting the wrong way accelerates aging \n-The simple strength principles that protect your body for life \nIf you want 2026 to be the year you feel stronger, leaner, and more capable in your body, this episode is for you. \nFor more resources related to today's episode, click here for the podcast episode page.  \nAs a gift to listeners of The Mel Robbins Podcast, Mel has created a free 20-page workbook to help you make 2026 a great year. This workbook is designed using the latest research to help you get clear about what you want and empower you to take the next step forward in your life. And the cool part? It takes less than a minute for you to get your hands on it. Just sign up at melrobbins.com/bestyear. \nIf you liked the episode, check out this one next: Change Your Body & Your Life in 1 Month: 4 Small Habits That Actually Work\nConnect with Mel:  \n \nGet on the waitlist for Pure GeniusGet Mel's newsletter, packed with tools, coaching, and inspiration.Get Mel's #1 bestselling book, The Let Them TheoryWatch the episodes on YouTubeFollow Mel on Instagram The Mel Robbins Podcast InstagramMel's TikTok Subscribe to SiriusXM Podcasts+ to listen to new episodes ad-freeDisclaimer\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "cover": "/cdn/spotify/images/playlists/23f59a5fff4d62a1.jpg",
+      "date": "2026/1/1",
+      "duration": "87 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/0df898f2ea6f205f.jpg"
+    },
+    {
+      "id": "pod_1000744202370",
+      "title": "The Mosquito Chef/Suing Dinos",
+      "podcastName": "Story Pirates",
+      "description": "Rachel and Siegfried unknowingly compete with each other's chair-building startups. Featuring two new stories: \"The Mosquito Chef\", about a mosquito who can't stop eating other bugs, written by Shalva, age 9, Adiv, age 7, and Elena, age 9, from Illinois, and \"Suing Dinos\", a story about a dinosaur dentist who is accused of malpractice, written by siblings Olaniyi, age 10, and Olaiya, age 4, from New York. Peter and Lee also read more stories written by kids in the latest installment of Story Love.\n Last chance to get a personalized video for an imaginative kid in your life from Lee or Peter at storypirates.com/support\n Submit kids' stories at storypirates.com/submit-a-story\n Check out Story Quest, our in-school digital creative writing program, at storypirates.com/about-story-quest\n Learn about Story Love, our corporate volunteer program, at storypirateschangemakers.org/story-love\nSee omnystudio.com/listener for privacy information.",
+      "cover": "/cdn/spotify/images/playlists/cb3902a36bc15dd8.jpg",
+      "date": "2026/1/8",
+      "duration": "48 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/bca53cbcf330ecad.jpg"
+    },
+    {
+      "id": "pod_1000743651504",
+      "title": "Welcome to The Koala Kingdom",
+      "podcastName": "Koala Moon: Kids Bedtime Stories & Sleep Stories for Kids Podcast",
+      "description": "Throughout January, we'll be taking you on brand-new journeys through the magical Koala Kingdom.\n\nFrom the soft slopes of Pillowy Peaks to the peaceful shores of Harmony Cove, and from Wonder Jungle to Moonbeam Heights, each story is filled with soothing adventures and comforting characters - guaranteed to give you that warm, sleepy feeling!",
+      "cover": "/cdn/spotify/images/playlists/c145475611d97ac7.jpg",
+      "date": "2026/1/4",
+      "duration": "6 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/edeb494227a231e7.jpg"
+    },
+    {
+      "id": "pod_1000744252549",
+      "title": "The Spider Weaver-Storytelling Podcast for Kids",
+      "podcastName": "Journey with Story - A Storytelling Podcast for Kids",
+      "description": "A beautiful tale from Japan that explains why the Japanese language uses the same name for a spider and a cloud. An episode from Journey with Story, a storytelling podcast for kids ages 4-10. (duration 11 minutes)",
+      "cover": "/cdn/spotify/images/playlists/2ce6e67d72466470.jpg",
+      "date": "2026/1/8",
+      "duration": "10 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/f23ae3fad0ea5e24.jpg"
+    },
+    {
+      "id": "pod_1000739438470",
+      "title": "War, Peace, and Power - Diplomatic History of Europe, 1500–2000",
+      "podcastName": "Knowledge = Power",
+      "description": "War, Peace, and Power - Diplomatic History of Europe, 1500–2000",
+      "cover": "/cdn/spotify/images/playlists/6b6f57daa7c4be7e.jpg",
+      "date": "2025/12/3",
+      "duration": "116 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/d40f8e395c822634.jpg"
+    },
+    {
+      "id": "pod_1000743409767",
+      "title": "How to Build Good Habits & Break Bad Ones | James Clear",
+      "podcastName": "The Knowledge Project",
+      "description": "James Clear is the author of Atomic Habits, a global bestseller that has shaped how millions of people think about habits, consistency, and long-term change.",
+      "cover": "/cdn/spotify/images/playlists/5ad9f24bc36627cf.jpg",
+      "date": "2026/1/1",
+      "duration": "137 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/c704ee138cc3e8a0.jpg"
+    },
+    {
+      "id": "pod_1000743473325",
+      "title": "#1106: December 4, 2025",
+      "podcastName": "Knowledge Fight",
+      "description": "In this installment, Dan and Jordan check in to hear Alex discuss his endorsement of war with Venezuela, Trump's plans for world domination, and the gents discuss a very dumb court case.",
+      "cover": "/cdn/spotify/images/playlists/06882516c6412620.jpg",
+      "date": "2026/1/2",
+      "duration": "140 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/561a075e5a6a8bd2.jpg"
+    },
+    {
+      "id": "pod_1000744303298",
+      "title": "A History of Magical Orders, Archonic Worship, Creation of the Modern Moonchild | Ani Osaru",
+      "podcastName": "Forbidden Knowledge News",
+      "description": "Ani's links - YouTube, Patreon, Instagram, Twitter. Forbidden Knowledge Network.",
+      "cover": "/cdn/spotify/images/playlists/47642a1e5751ca4e.jpg",
+      "date": "2026/1/8",
+      "duration": "70 分钟",
+      "coverLarge": "/cdn/spotify/images/playlists/2aaa8ed9c71075b9.jpg"
+    }
+  ],
+  "wrappedData": [
+    {
+      "id": "wrap_490179410",
+      "title": "2024 35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "subtitle": "Power Music Workout",
+      "cover": "/cdn/spotify/images/playlists/02f76e5ccfdf6045.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/af9395977aee57aa.jpg"
+    },
+    {
+      "id": "wrap_1786046177",
+      "title": "2024 Top Hits 2024 - EP",
+      "subtitle": "Various Artists",
+      "cover": "/cdn/spotify/images/playlists/f5529119412cf63c.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/99bd3db7d637de93.jpg"
+    },
+    {
+      "id": "wrap_1534042277",
+      "title": "2024 Top",
+      "subtitle": "YoungBoy Never Broke Again",
+      "cover": "/cdn/spotify/images/playlists/c680a825dac04b45.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/744dcc5a959baae1.jpg"
+    },
+    {
+      "id": "wrap_1440811338",
+      "title": "2024 Hits",
+      "subtitle": "Dru Hill",
+      "cover": "/cdn/spotify/images/playlists/ded80cd18eb9bd7e.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/e83bbb25ade3b9e3.jpg"
+    },
+    {
+      "id": "wrap_177422219",
+      "title": "2024 Hits!",
+      "subtitle": "Boz Scaggs",
+      "cover": "/cdn/spotify/images/playlists/c100a50f55ac11c9.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/4cce300d9dd0eb39.jpg"
+    },
+    {
+      "id": "wrap_128076661",
+      "title": "2024 Hits",
+      "subtitle": "Joni Mitchell",
+      "cover": "/cdn/spotify/images/playlists/e6c4259c40c87574.jpg",
+      "type": "Wrapped Collection",
+      "coverLarge": "/cdn/spotify/images/playlists/278e73edc0b6231b.jpg"
+    }
+  ]
+}
