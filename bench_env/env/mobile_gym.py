@@ -303,6 +303,7 @@ class MobileGymEnv(BaseMobileEnv):
         "WeChat Reading": "wechat_reading",
         # bilibili - 哔哩哔哩
         "哔哩哔哩": "bilibili",
+        "b站": "bilibili",
         "B站": "bilibili",
         "Bilibili": "bilibili",
         # tencent_meeting - 腾讯会议
@@ -312,6 +313,7 @@ class MobileGymEnv(BaseMobileEnv):
         "QQ音乐": "qqmusic",
         "QQMusic": "qqmusic",
         "QQ Music": "qqmusic",
+        "qq音乐": "qqmusic",
         # alipay - 支付宝
         "支付宝": "alipay",
         "Alipay": "alipay",
@@ -320,6 +322,8 @@ class MobileGymEnv(BaseMobileEnv):
         "Map": "map",
         "谷歌地图": "map",
         "Google Maps": "map",
+        "google map": "map",
+        "googlemap": "map",
         # redbook - 小红书
         "小红书": "redbook",
         "RedNote": "redbook",
@@ -328,6 +332,7 @@ class MobileGymEnv(BaseMobileEnv):
         # x
         "X": "x",
         "Twitter": "x",
+        "twitter": "x",
         # reddit
         "Reddit": "reddit",
         # sms - 短信
@@ -349,6 +354,7 @@ class MobileGymEnv(BaseMobileEnv):
         "答题卡": "answer_sheet",
         "Answer Sheet": "answer_sheet",
         "AnswerSheet": "answer_sheet",
+        "answer sheet": "answer_sheet",
     }
 
     # Valid coordinate space options
