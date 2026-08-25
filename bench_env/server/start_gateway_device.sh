@@ -65,6 +65,42 @@ if [ ! -d "$ROOT_DIR/dist" ]; then
   exit 1
 fi
 
+# --- 0.5 清理上一轮遗留进程（幂等重启：无需手动 kill）---
+# 只清理本脚本会启动的三类进程，且 adapter 仅限本次的端口段，避免误杀他人进程：
+#   - adapter : python -m bench_env.server.env_server --port <BASE_PORT..BASE_PORT+N-1>
+#   - 心跳    : 带 MOBILEGYM_HEARTBEAT 标记的 bash 循环
+#   - nginx   : 由 start_nginx_gateway.sh stop 统一停（下面起 nginx 时它自己也会 stop 旧实例）
+cleanup_stale() {
+  echo ">>> 清理上一轮遗留进程 ..."
+
+  # 1) 心跳守护进程（精确匹配标记，避免误杀）
+  pkill -f "MOBILEGYM_HEARTBEAT" 2>/dev/null && echo "    已停止旧心跳进程"
+
+  # 2) 本次端口段内的 adapter
+  local port pids
+  for ((i=1; i<=DEVICE_COUNT; i++)); do
+    port=$((BASE_PORT + i - 1))
+    # 精确匹配 env_server 且端口号完全一致（\b 防止 810 误匹配 8100）
+    pids=$(pgrep -f "bench_env\.server\.env_server.*--port ${port}\b" 2>/dev/null)
+    if [ -n "$pids" ]; then
+      echo "    终止端口 $port 的旧 adapter (PID: $pids)"
+      kill $pids 2>/dev/null
+    fi
+  done
+
+  # 3) 给端口一点时间释放，必要时强杀仍未退出的
+  sleep 1
+  for ((i=1; i<=DEVICE_COUNT; i++)); do
+    port=$((BASE_PORT + i - 1))
+    pids=$(pgrep -f "bench_env\.server\.env_server.*--port ${port}\b" 2>/dev/null)
+    if [ -n "$pids" ]; then
+      echo "    强制终止端口 $port 的残留 adapter (PID: $pids)"
+      kill -9 $pids 2>/dev/null
+    fi
+  done
+}
+cleanup_stale
+
 # --- 1. 起前端 nginx（整台机器只起 1 个，N 个 adapter 共用）---
 echo ">>> 启动前端 nginx :$FRONTEND_PORT ..."
 bash scripts/server/start_nginx_gateway.sh "$FRONTEND_PORT"
@@ -117,6 +153,7 @@ fi
 # --- 3. 心跳上报守护进程（对齐 mobile_world：心跳由宿主机脚本统一发）---
 PORTS_STR="${DECLARED_PORTS[*]}"
 nohup bash -c "
+# MOBILEGYM_HEARTBEAT  <- 进程标记，供 cleanup_stale 的 pkill -f 精确匹配，勿删
 while true; do
   for PORT in $PORTS_STR; do
     curl -sS -m 5 -X POST '${GATEWAY_URL}' \

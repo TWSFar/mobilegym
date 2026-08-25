@@ -15,3 +15,6 @@ tqdm>=4.60.0
 
 # Required (for traditional→simplified Chinese normalization in judge)
 opencc-python-reimplemented>=0.1.7
+
+# Required (for url_content_contains judge helper in task/utils.py)
+requests>=2.25
