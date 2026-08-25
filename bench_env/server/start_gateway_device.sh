@@ -129,7 +129,7 @@ for ((i=1; i<=DEVICE_COUNT; i++)); do
   echo "--------------------------------------------------"
   echo "[$i/$DEVICE_COUNT] 启动 adapter :$PORT"
 
-  LOG="/tmp/mobile_gym_adapter_${PORT}.log"
+  LOG="/mnt/share/duanchengzhen/logs/mobile_gym_adapter_${PORT}.log"
   MOBILEGYM_ENV_URL="$MOBILEGYM_ENV_URL" \
   MOBILEGYM_HEADLESS="${MOBILEGYM_HEADLESS:-1}" \
     nohup "$PYTHON_BIN" -m bench_env.server.env_server \
