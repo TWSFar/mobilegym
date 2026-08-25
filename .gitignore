@@ -79,3 +79,5 @@ mobilegym-rl/eval_results/
 mobilegym-rl/.rllm_local/
 mobilegym-rl/.pytest_cache/
 mobilegym-rl/**/*.egg-info/
+
+*.zip
