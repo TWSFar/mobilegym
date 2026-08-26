@@ -91,6 +91,10 @@ class StepRequest(BaseModel):
 class TaskInitRequest(BaseModel):
     task_name: str
     req_device: str = "mobile_gym"
+    # Deterministic sampling seed. Same seed + same task -> same sampled params,
+    # so the goal shown to the agent matches the state the judge evaluates, and
+    # a fixed seed keeps every test run reproducible.
+    seed: int = 42
 
 
 class TaskOpRequest(BaseModel):
@@ -311,7 +315,7 @@ async def task_init(req: TaskInitRequest) -> dict:
             task_cls = STATE.registry.get_by_id(req.task_name)
         except ValueError as e:
             raise HTTPException(404, str(e))
-        task = task_cls()
+        task = task_cls(_seed=req.seed)
         init_obs = await task.setup(env)
         STATE.current_task = task
         STATE.current_task_id = req.task_name
