@@ -373,7 +373,25 @@ async def task_goal(task_name: str) -> str:
     # Prefer the live task instance (rendered params) if it matches.
     if STATE.current_task is not None and STATE.current_task_id == task_name:
         return STATE.current_task.description
-    return task_cls().description
+
+    # Fresh instance: bind live simulator state before rendering so that
+    # state-dependent display formatters (e.g. format_date_natural, which
+    # reads os.time and refuses to fall back to wall-clock) can resolve.
+    # Mirrors bench_env.task_listing (task._env_state = env_state).
+    task = task_cls()
+    try:
+        env = STATE.env
+        if env is not None:
+            task._env_state = await env.get_state(required_apps=task.apps or None)
+    except Exception:  # state fetch is best-effort for description rendering
+        pass
+    try:
+        return task.description
+    except Exception:
+        # State-dependent template could not render (e.g. no live os.time yet).
+        # Fall back to the raw first template so the endpoint never 500s.
+        templates = getattr(task, "templates", None) or [""]
+        return templates[0]
 
 
 @app.get("/task/complexity")
