@@ -45,11 +45,16 @@ if [ -z "$HOST_IP" ]; then
   HOST_IP="127.0.0.1"
 fi
 
+# 日志目录（adapter / 心跳 都写到这里）
+LOG_DIR="/mnt/share/duanchengzhen/logs/${HOST_IP}"
+mkdir -p "$LOG_DIR"
+
 echo "=================================================="
 echo "device_count : $DEVICE_COUNT"
 echo "gateway      : $GATEWAY_URL"
 echo "adapter 端口 : ${BASE_PORT}..$((BASE_PORT + DEVICE_COUNT - 1))  (宿主机IP=$HOST_IP)"
 echo "前端 nginx   : :$FRONTEND_PORT (dist/，仅本机)"
+echo "日志目录     : $LOG_DIR"
 echo "=================================================="
 
 # --- 0. 依赖检查（挂载源码/裸环境时确保 adapter 依赖存在）---
@@ -129,7 +134,7 @@ for ((i=1; i<=DEVICE_COUNT; i++)); do
   echo "--------------------------------------------------"
   echo "[$i/$DEVICE_COUNT] 启动 adapter :$PORT"
 
-  LOG="/mnt/share/duanchengzhen/logs/${HOST_IP}/mobile_gym_adapter_${PORT}.log"
+  LOG="${LOG_DIR}/mobile_gym_adapter_${PORT}.log"
   MOBILEGYM_ENV_URL="$MOBILEGYM_ENV_URL" \
   MOBILEGYM_HEADLESS="${MOBILEGYM_HEADLESS:-1}" \
     nohup "$PYTHON_BIN" -m bench_env.server.env_server \
@@ -162,7 +167,7 @@ while true; do
   done
   sleep 30
 done
-" > /mnt/share/duanchengzhen/logs/${HOST_IP}/mobile_gym_heartbeat.log 2>&1 &
+" > "${LOG_DIR}/mobile_gym_heartbeat.log" 2>&1 &
 HEARTBEAT_PID=$!
 
 echo "Heartbeat PID: $HEARTBEAT_PID  (每 30s 上报 ${#DECLARED_PORTS[@]} 个 device)"
