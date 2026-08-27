@@ -149,6 +149,31 @@ def _point(action: dict, *keys: str) -> Optional[list[int]]:
     return [int(x), int(y)]
 
 
+def _start_point(action: dict) -> Optional[list[int]]:
+    """Start point for drag/swipe, per the mobile_world JSONAction contract.
+
+    mobile_world uses ``start_x/start_y`` for the drag/swipe origin. We also
+    accept the single-point ``x/y`` and the legacy ``x1/y1`` as fallbacks so
+    older callers keep working.
+    """
+    return (
+        _point(action, "start_x", "start_y")
+        or _point(action, "x1", "y1")
+        or _point(action, "x", "y")
+    )
+
+
+def _end_point(action: dict) -> Optional[list[int]]:
+    """End point for drag/swipe, per the mobile_world JSONAction contract.
+
+    mobile_world uses ``end_x/end_y``; ``x2/y2`` is accepted as a legacy alias.
+    Note: mobile_world's JSONAction has NO ``x2/y2`` fields, so a
+    ``JSONAction.model_dump()`` will only ever carry ``end_x/end_y`` — the
+    ``x2/y2`` path exists only for hand-built dicts / older callers.
+    """
+    return _point(action, "end_x", "end_y") or _point(action, "x2", "y2")
+
+
 # Gateway scroll direction -> a swipe vector in 0-1000 normalized space.
 # A "scroll down" reveals content further down => finger swipes UP (high y -> low y).
 _SCROLL_SWIPE = {
@@ -161,6 +186,14 @@ _SCROLL_SWIPE = {
 
 def json_action_to_native(action: dict) -> Optional[Action]:
     """Translate a gateway JSONAction dict into a native mobile-gym ``Action``.
+
+    The gateway speaks mobile_world's ``JSONAction`` schema (see
+    ``mua-gateway/env/mobile_world_json_action.py``): action names are
+    lowercase (``click`` / ``scroll`` / ``input_text`` / ``navigate_back`` /
+    ``open_app`` / ``status`` ...), single points use ``x`` / ``y``, and
+    drag/swipe endpoints use ``start_x`` / ``start_y`` / ``end_x`` / ``end_y``
+    (there is NO ``x2`` / ``y2`` in that schema). This adapter maps that schema
+    onto the native uppercase ``ActionType`` space.
 
     Returns ``None`` for no-op / unsupported action types (the env simply
     re-observes). Raises HTTPException(400) on malformed required fields.
@@ -188,7 +221,12 @@ def json_action_to_native(action: dict) -> Optional[Action]:
     if at in ("input_text", "type"):
         text = action.get("text", action.get("value", ""))
         p = _point(action, "x", "y")  # optional target field
-        return Action.type_text(str(text), point=p)
+        # Default is clear-then-type (replace the field). Only an explicit
+        # ``clear_text: false`` opts into append-to-existing behavior.
+        data: dict[str, Any] = {"value": str(text), "clear": action.get("clear_text") is not False}
+        if p is not None:
+            data["point"] = p
+        return Action(ActionType.TYPE, data)
 
     if at == "keyboard_enter":
         return Action(ActionType.ENTER, {})
@@ -209,8 +247,8 @@ def json_action_to_native(action: dict) -> Optional[Action]:
         return Action.swipe(p1, p2)
 
     if at == "swipe":
-        p1 = _point(action, "x", "y")
-        p2 = _point(action, "x2", "y2")
+        p1 = _start_point(action)
+        p2 = _end_point(action)
         if p1 and p2:
             return Action.swipe(p1, p2)
         # Fall back to a directional swipe if only a direction was given.
@@ -219,10 +257,10 @@ def json_action_to_native(action: dict) -> Optional[Action]:
         return Action.swipe(d1, d2)
 
     if at == "drag":
-        p1 = _point(action, "x", "y") or _point(action, "x1", "y1")
-        p2 = _point(action, "x2", "y2")
+        p1 = _start_point(action)
+        p2 = _end_point(action)
         if p1 is None or p2 is None:
-            raise HTTPException(400, "drag requires start and end points")
+            raise HTTPException(400, "drag requires start (start_x,start_y) and end (end_x,end_y) points")
         return Action(ActionType.DRAG, {"point1": p1, "point2": p2})
 
     if at == "wait":
@@ -244,7 +282,7 @@ def json_action_to_native(action: dict) -> Optional[Action]:
             return Action.abort(str(text))
         return Action.complete(str(text))
 
-    if at in ("", "unknown", "noop", "ask_user"):
+    if at in ("", "unknown", "noop", "ask_user", "mcp"):
         return None
 
     # Unknown/unsupported: no-op so a single bad action doesn't kill the loop.
