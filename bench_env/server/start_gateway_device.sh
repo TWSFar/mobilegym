@@ -162,7 +162,7 @@ while true; do
   done
   sleep 30
 done
-" > /mnt/share/duanchengzhen/logs/mobile_gym_heartbeat.log 2>&1 &
+" > /mnt/share/duanchengzhen/logs/${HOST_IP}/mobile_gym_heartbeat.log 2>&1 &
 HEARTBEAT_PID=$!
 
 echo "Heartbeat PID: $HEARTBEAT_PID  (每 30s 上报 ${#DECLARED_PORTS[@]} 个 device)"
